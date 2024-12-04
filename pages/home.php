@@ -221,7 +221,7 @@
             </div>
         </div>
         <div class="d-flex justify-content-center align-items-center pt-2" data-aos="fade-up"  data-aos-duration="1500">
-            <a href="/testimonials" class="button-primary">Send me a message</a>
+            <a href="/testimonials" class="button-primary">Read testimonials</a>
             <span class="full-width-line"></span>
         </div>
     </div>
