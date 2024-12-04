@@ -1836,26 +1836,19 @@ button.accordion-button {
   width: 100%;
   overflow: hidden;
   position: relative;
-  /* background: #f9f9f9; */
-  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .custom-carousel {
   display: flex;
   flex-wrap: nowrap;
-  animation: scroll 10s linear infinite;
+  gap: 10px; /* Space between images */
+  animation: none; /* Handled by JavaScript */
 }
 
 .carousel-image {
-  width: 150px;
-  margin: 0 10px;
-}
-
-@keyframes scroll {
-  0% {
-      transform: translateX(0);
-  }
-  100% {
-      transform: translateX(-50%);
-  }
+  width: 150px; /* Adjust to your preference */
+  flex-shrink: 0; /* Prevent images from shrinking */
 }

@@ -43,19 +43,31 @@ const faqItems = Array.from(document.querySelectorAll('.cs-faq-item'));
 
 
 //Carousel
-    const carousel = document.querySelector('.carousel');
-    let currentIndex = 0;
-    
-    function slideCarousel() {
-        // Total images
-        const totalImages = carousel.children.length;
-    
-        // Move the carousel
-        carousel.style.transform = `translateX(-${currentIndex * 100}%)`;
-    
-        // Update index and loop back to start
-        currentIndex = (currentIndex + 1) % totalImages;
+const carousel = document.querySelector('.custom-carousel');
+const images = document.querySelectorAll('.carousel-image');
+const totalImages = images.length;
+
+// Clone the images to create a seamless loop
+images.forEach(image => {
+    const clone = image.cloneNode(true);
+    carousel.appendChild(clone);
+});
+
+let scrollPosition = 0;
+
+function scrollCarousel() {
+    // Move the carousel leftward
+    scrollPosition -= 1; // Adjust speed by changing this value
+    carousel.style.transform = `translateX(${scrollPosition}px)`;
+
+    // Reset position if it reaches the end of the original images
+    if (Math.abs(scrollPosition) >= totalImages * (images[0].offsetWidth + 10)) {
+        scrollPosition = 0;
     }
-    
-// Start the carousel
-setInterval(slideCarousel, 3000);
+
+    // Continue scrolling
+    requestAnimationFrame(scrollCarousel);
+}
+
+// Start scrolling
+scrollCarousel();
