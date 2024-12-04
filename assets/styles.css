@@ -173,7 +173,7 @@ a.noLink {
 
 .highlight::after {
   content: "";
-  border-bottom: 3px solid rgba(250 100 0 / 28%);
+  border-bottom: 3px solid rgba(250, 100, 0, 0.28);
 }
 
 
