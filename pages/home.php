@@ -101,7 +101,7 @@
                 <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">Why Choose Taystan Design?</h1>
                 <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">Choose Taystan Design for a blend of creativity and technical expertise that brings your vision to reality. With a focus on user-friendly, visually stunning, and inclusive designs, I deliver solutions tailored to your unique needs</p>
 
-                <div class="d-flex justify-content-center align-items-baseline flex-row gx-4"  data-aos="fade-up" data-aos-duration="1500">
+                <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up" data-aos-duration="1500">
                     <div>
                         <img src="/assets/images/transparency.svg" alt="">
                     </div>
@@ -110,7 +110,7 @@
                         <p class="p-text">Clear communication and no hidden fees</p>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
+                <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
                         <img src="/assets/images/accessibility.svg" alt="">
                     </div>
@@ -119,7 +119,7 @@
                         <p class="p-text">Websites that are inclusive and easy to navigate for everyone</p>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
+                <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
                         <img src="/assets/images/goals.svg" alt="">
                     </div>
@@ -128,13 +128,13 @@
                         <p class="p-text">I've worked with organizations and businesses just like yours, helping them increase visibility and achieve their goals</p>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
+                <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
                         <img src="/assets/images/resourceful.svg" alt="">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Resourceful and Adaptable</h3>
-                        <p class="p-text">Whether you need a refresh of a full redesign, I’ll find solutions that fit your timeline and budget</p>
+                        <p class="p-text">Whether you need a refresh of a full redesign, I'll find solutions that fit your timeline and budget</p>
                     </div>
                 </div>
             </div>
