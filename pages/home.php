@@ -51,7 +51,7 @@
 
 <section class="section-padding">
     <div class="container">
-        <div class="row row-cols-lg-2 flex-column-reverse flex-lg-row justify-content-center align-items-center align-items-lg-start">
+        <div class="row row-cols-lg-2 flex-column flex-lg-row justify-content-center align-items-center align-items-lg-start">
         <div class="col d-flex justify-content-center align-items-center pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1800">
                 <img src="./assets/images/how-i-help.png" alt="" class="about-img img-fluid mx-auto"> 
             </div>
@@ -95,7 +95,7 @@
 <!-- Why Choose -->
 <section class="section-padding">
     <div class="container">
-        <div class="row row-cols-lg-2 flex-column flex-lg-row justify-content-center align-items-center align-items-lg-start">
+        <div class="row row-cols-lg-2 flex-column-reverse flex-lg-row justify-content-center align-items-center align-items-lg-start">
             <div class="col">
                 <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">About Me</h4>
                 <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">Why <span class="highlight">Choose</span> Taystan Design?</h1>
@@ -138,7 +138,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col d-flex justify-content-center align-items-center align-self-stretch" data-aos="fade-up" data-aos-duration="1800">
+            <div class="col d-flex justify-content-center align-items-center align-self-stretch pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1800">
                 <img src="./assets/images/about-me-img3.png" alt="" class="d-flex justify-content-center align-items-center img-fluid">
             </div>
         </div>
