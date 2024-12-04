@@ -1316,7 +1316,7 @@ button.accordion-button {
         padding: clamp(2rem, 5.18vw, 3rem) clamp(1rem, 5vw, 3.75rem);
         /* prevents flexbox from affecting height and width */
         box-sizing: border-box;
-        background-color: #f7f7f7;
+        background-color: var(--pink-bg);
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
