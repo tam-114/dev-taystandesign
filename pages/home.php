@@ -271,7 +271,7 @@
 </section> -->
 
 
-<section>
+<section class="section-padding">
     <div class="container-fluid contact-banner" data-aos="fade-up"  data-aos-duration="1500">
         <div class="overlay">
             <div class="overlay-text">
