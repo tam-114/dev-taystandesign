@@ -317,7 +317,7 @@ a.noLink {
 }
 
 @media (min-width: 992px) {
-  .circle-number:nth-of-type(-n+3)::after {
+  .row .col:nth-child(-n+3) .circle-number::after {
     content: "\f178";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
