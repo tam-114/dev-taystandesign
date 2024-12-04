@@ -139,7 +139,7 @@
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center align-self-stretch" data-aos="fade-up" data-aos-duration="1800">
-                <img src="./assets/images/about-me-img2.png" alt="" class="d-flex justify-content-center align-items-center img-fluid">
+                <img src="./assets/images/about-me-img3.png" alt="" class="d-flex justify-content-center align-items-center img-fluid">
             </div>
         </div>
     </div>
