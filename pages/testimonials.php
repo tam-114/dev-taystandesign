@@ -6,7 +6,7 @@
     <div class="cs-container">
         <div class="cs-content container" data-aos="fade-up" data-aos-duration="1500">
             <span class="cs-topper">Testimonials</span>
-            <h2 class="cs-title">Building Websites That Work for Everyone</h2>
+            <h1 class="h1-text">Building Websites That Work for <span class="highlight">Everyone</span> </h1>
             <p class="p-text">
                 At Taystan Design, I create websites that are not only beautiful but also accessible, inclusive, and diverse. Whether you're a business or an individual, I'm here to help you grow and make a lasting impact online.
             </p>
