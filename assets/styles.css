@@ -318,7 +318,7 @@ a.noLink {
 
 @media (min-width: 992px) {
   .circle-number:nth-of-type(-n+3)::after {
-    content: "\f061";
+    content: "\f178";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     position: absolute;
