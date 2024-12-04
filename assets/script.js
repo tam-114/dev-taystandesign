@@ -42,32 +42,40 @@ const faqItems = Array.from(document.querySelectorAll('.cs-faq-item'));
     }
 
 
-//Carousel
-const customCarousel = document.querySelector('.custom-carousel');
-const images = document.querySelectorAll('.carousel-image');
-const totalImages = images.length;
-
-// Clone the images to create a seamless loop
-images.forEach(image => {
-    const clone = image.cloneNode(true);
-    customCarousel.appendChild(clone);
-});
-
-let scrollPosition = 0;
-
-function scrollCarousel() {
-    // Move the carousel leftward
-    scrollPosition -= 1; // Adjust speed by changing this value
-    customCarousel.style.transform = `translateX(${scrollPosition}px)`;
-
-    // Reset position if it reaches the end of the original images
-    if (Math.abs(scrollPosition) >= totalImages * (images[0].offsetWidth + 10)) {
-        scrollPosition = 0;
+    const customCarousel = document.querySelector('.custom-carousel');
+    const images = document.querySelectorAll('.carousel-image');
+    const totalImages = images.length;
+    
+    // Clone the images to create a seamless loop
+    images.forEach(image => {
+        const clone = image.cloneNode(true);
+        customCarousel.appendChild(clone);
+    });
+    
+    let scrollPosition = 0;
+    
+    function scrollCarousel() {
+        console.log('Current scroll position:', scrollPosition);
+    
+        // Move the carousel leftward
+        scrollPosition -= 1; // Adjust speed by changing this value
+        customCarousel.style.transform = `translateX(${scrollPosition}px)`;
+    
+        // Check if it needs to reset
+        const singleImageWidth = images[0].offsetWidth + 10; // 10 is the gap
+        const carouselWidth = totalImages * singleImageWidth;
+    
+        console.log('Single Image Width:', singleImageWidth, 'Carousel Width:', carouselWidth);
+    
+        if (Math.abs(scrollPosition) >= carouselWidth) {
+            scrollPosition = 0;
+            console.log('Reset scroll position');
+        }
+    
+        // Continue scrolling
+        requestAnimationFrame(scrollCarousel);
     }
-
-    // Continue scrolling
-    requestAnimationFrame(scrollCarousel);
-}
-
-// Start scrolling
-scrollCarousel();
+    
+    // Start scrolling when images are loaded
+    window.onload = scrollCarousel;
+    
