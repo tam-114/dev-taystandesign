@@ -171,6 +171,9 @@
                  <p class="p-text text-center pt-4"> <strong>Launch & Support:</strong>  I'll launch your project seamlessly and provide support for any updates or questions.</p>
             </div>
         </div>
+        <div class="d-flex justify-content-center align-items-center">
+            <a href="/" class="button-primary"></a>
+        </div>
     </div>
  </section>
 
