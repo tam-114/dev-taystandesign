@@ -563,7 +563,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                         </button>
                         </h2>
                         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">The amount of revisions are included with the purchased packages, and is essentially inline with each milestone. Depending on the size of the Revision/Change Request there may be an an additional cost and update to the timeline of completion, but I will always do my best to meet the deadline.
+                        <div class="accordion-body">The amount of revisions are included with the purchased packages, and is essentially inline with each milestone. Depending on the size of the Revision/Change Request there may be an additional cost and update to the timeline of completion, but I will always do my best to meet the deadline.
                         <br><br>
                         <em>*A Change Request would refer to adding and/or changing parts of the site content entirely outside of the scope, while a Revision would be modifying existing content.</em></div>
                         </div>
