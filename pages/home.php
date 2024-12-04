@@ -154,19 +154,19 @@
             <p class="p-text">I believe great projects come from clear communication and collaboration. My process is simple and ensures we're on the same page every step of the way—from understanding your goals to bringing your vision to reality.</p>
         </div>
         <div class="row d-flex justify-content-center align-items-center flex-lg-row flex-column pt-3">
-            <div class="col d-flex justify-content-center align-items-center flex-column">
+            <div class="col d-flex justify-content-center align-items-center flex-column" data-aos="fade-up"  data-aos-duration="1500">
                  <span class="circle-number">01</span>
                  <p class="p-text text-center pt-4"> <strong>Discovery & Planning:</strong> We'll discuss your goals, gather details, and outline a clear plan for your project</p>
             </div>
-            <div class="col d-flex justify-content-center align-items-center flex-column">
+            <div class="col d-flex justify-content-center align-items-center flex-column" data-aos="fade-up"  data-aos-duration="1500">
                  <span class="circle-number">02</span>
                  <p class="p-text text-center pt-4"> <strong>Design & Development:</strong> I'll create mockups, refine them with your feedback, and develop your site when you give the OK</p>
             </div>
-            <div class="col d-flex justify-content-center align-items-center flex-column">
+            <div class="col d-flex justify-content-center align-items-center flex-column" data-aos="fade-up"  data-aos-duration="1500">
                  <span class="circle-number">03</span>
                  <p class="p-text text-center pt-4"> <strong>Testing & Revisions:</strong>  I'll test thoroughly, share for your review, and make final adjustments to ensure you're satisfied</p>
             </div>
-            <div class="col d-flex justify-content-center align-items-center flex-column">
+            <div class="col d-flex justify-content-center align-items-center flex-column" data-aos="fade-up"  data-aos-duration="1500">
                  <span class="circle-number">04</span>
                  <p class="p-text text-center pt-4"> <strong>Launch & Support:</strong>  I'll launch your project seamlessly and provide support for any updates or questions.</p>
             </div>
