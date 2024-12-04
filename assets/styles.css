@@ -307,8 +307,8 @@ a.noLink {
   border-radius: 100%;
   width: 80px;
   height: 80px;
-  background-color: #FDE4EA;
-  border: 1px solid #472526;
+  background-color: var(--pink-bg);
+  border: 1px solid var(--dark-red);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -322,11 +322,12 @@ a.noLink {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     position: absolute;
-    right: -30px;
+    right: -177%;
     top: 50%;
-    transform: translateY(-50%);
+    transform: scale(1.5, 1) translateY(-50%);
     font-size: 20px;
-    color: black;
+    color: var(--dark-red);
+    
   }
 }
 
