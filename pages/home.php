@@ -51,7 +51,7 @@
 
 <section class="section-padding">
     <div class="container">
-        <div class="row row-cols-lg-2 flex-column flex-lg-row justify-content-center align-items-center align-items-lg-start">
+        <div class="row row-cols-lg-2 flex-column-reverse flex-lg-row justify-content-center align-items-center align-items-lg-start">
         <div class="col d-flex justify-content-center align-items-center pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1800">
                 <img src="./assets/images/how-i-help.png" alt="" class="about-img img-fluid mx-auto"> 
             </div>
