@@ -155,13 +155,21 @@
         </div>
         <div class="row d-flex justify-content-center align-items-center flex-lg-row flex-column">
             <div class="col d-flex justify-content-center align-items-center flex-column">
-                <!-- <img src="/assets/images/" alt=""> -->
                  <span class="circle-number">01</span>
-                 <p class="p-text text-center"> <strong>Discovery & Planning:</strong> We'll discuss your goals, gather details, and outline a clear plan for your project.</p>
+                 <p class="p-text text-center pt-2"> <strong>Discovery & Planning:</strong> We'll discuss your goals, gather details, and outline a clear plan for your project</p>
             </div>
-            <div class="col d-flex flex-column"></div>
-            <div class="col d-flex flex-column"></div>
-            <div class="col d-flex flex-column"></div>
+            <div class="col d-flex justify-content-center align-items-center flex-column">
+                 <span class="circle-number">02</span>
+                 <p class="p-text text-center pt-2"> <strong>Design & Development:</strong> I'll create mockups, refine them with your feedback, and develop your site when you give the OK</p>
+            </div>
+            <div class="col d-flex justify-content-center align-items-center flex-column">
+                 <span class="circle-number">03</span>
+                 <p class="p-text text-center pt-2"> <strong>Testing & Revisions:</strong>  I'll test thoroughly, share for your review, and make final adjustments to ensure you're satisfied</p>
+            </div>
+            <div class="col d-flex justify-content-center align-items-center flex-column">
+                 <span class="circle-number">04</span>
+                 <p class="p-text text-center pt-2"> <strong>Launch & Support:</strong>  I'll launch your project seamlessly and provide support for any updates or questions.</p>
+            </div>
         </div>
     </div>
  </section>
