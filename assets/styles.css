@@ -362,20 +362,22 @@ a.noLink {
 
 .full-width-line {
   display: block;
-  position: relative;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 50%;
   z-index: -1;
 }
 
 .full-width-line::after {
   content: "";
-  border-bottom-color: var(--dark-red);
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
+  border-bottom: 1px solid var(--dark-red);
   width: 100%;
   position: absolute;
   top: 0;
   left: 0;
 }
+
 
 /*-- -------------------------- -->
 <---           Steps            -->
