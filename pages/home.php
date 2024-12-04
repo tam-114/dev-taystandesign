@@ -157,6 +157,7 @@
             <div class="col d-flex flex-column">
                 <!-- <img src="/assets/images/" alt=""> -->
                  <span class="circle-number">01</span>
+                 <p class="p-text text-center"> <strong>Discovery & Planning:</strong> We'll discuss your goals, gather details, and outline a clear plan for your project.</p>
             </div>
             <div class="col d-flex flex-column"></div>
             <div class="col d-flex flex-column"></div>
