@@ -27,7 +27,7 @@
             <div class="col d-flex flex-column" data-aos="fade-up" data-aos-duration="1500">
                 <h4 class="subtitle-text">What I Do</h4>
                 <div class="mx-width">
-                    <h2 class="pb-3 pb-lg-0">I Make Your Online Presence Stand Out</h2>
+                    <h2 class="pb-3 pb-lg-0">I Make Your Online <span class="highlight">Presence</span> Stand Out</h2>
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center align-items-lg-start  flex-column" data-aos="fade-up" data-aos-duration="1500">
