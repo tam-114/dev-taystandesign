@@ -196,6 +196,19 @@
                 </div>
             </div>
             <div class="col bg-pink quote-card" data-aos="fade-up"  data-aos-duration="2000">
+                <div class="quotes-position">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="33" viewBox="0 0 40 33" fill="none">
+                    <g clip-path="url(#clip0_1_30)">
+                        <path d="M9.17589 33H0L7.32198 0H22L9.17589 33Z" fill="#EB762D"></path>
+                        <path d="M27.1759 33H18L25.322 0H40L27.1759 33Z" fill="#EB762D"></path>
+                    </g>
+                        <defs>
+                            <clipPath id="clip0_1_30">
+                                <rect width="40" height="33" fill="white"></rect>
+                            </clipPath>
+                        </defs>
+                    </svg>
+                </div>
                 <p class="p-text">“Taylor was great to work with. She is very professional, timely and knows what she is doing. She revamped our website in a way that brings it more to life….”</p>
                 <div class="d-flex justify-content-center align-items-center flex-row gx-2">
                     <div>
