@@ -172,7 +172,8 @@
             </div>
         </div>
         <div class="d-flex justify-content-center align-items-center" data-aos="fade-up"  data-aos-duration="1500">
-            <a href="/" class="button-primary full-width-line">Send me a message</a>
+            <a href="/" class="button-primary">Send me a message</a>
+            <span class="full-width-line"></span>
         </div>
     </div>
  </section>
