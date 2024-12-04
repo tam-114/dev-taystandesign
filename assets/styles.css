@@ -324,10 +324,9 @@ a.noLink {
     position: absolute;
     right: -177%;
     top: 50%;
-    transform: scale(1.5, 1) translateY(-50%);
+    transform: scale(2, 1) translateY(-50%);
     font-size: 20px;
     color: var(--dark-red);
-    
   }
 }
 
