@@ -1,5 +1,5 @@
 <main>
-<section class="bg-body-pink">
+<section class="section-padding pt-0">
     <div class="container">
         <div class="row row-cols-lg-2 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center">
             <div class="col d-flex justify-content-center align-items-start flex-column pt-5 pt-lg-0 pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1500">
@@ -21,7 +21,7 @@
     </div>
 </section>
 
-<section class="section-padding">
+<section class="section-padding bg-body-pink">
     <div class="container" id="explore">
         <div class="row row-cols-lg-4 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start services gx-5 gy-2">
             <div class="col d-flex flex-column" data-aos="fade-up" data-aos-duration="1500">
