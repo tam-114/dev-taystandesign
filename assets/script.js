@@ -29,14 +29,33 @@ function type() {
     }
 }
 
-
 // Start the typewriter effect
 type();
 
+// FAQ Items
 const faqItems = Array.from(document.querySelectorAll('.cs-faq-item'));
-        for (const item of faqItems) {
-            const onClick = () => {
-            item.classList.toggle('active')
-        }
-        item.addEventListener('click', onClick)
-        }
+    for (const item of faqItems) {
+        const onClick = () => {
+        item.classList.toggle('active')
+    }
+    item.addEventListener('click', onClick)
+    }
+
+
+//Carousel
+    const carousel = document.querySelector('.carousel');
+    let currentIndex = 0;
+    
+    function slideCarousel() {
+        // Total images
+        const totalImages = carousel.children.length;
+    
+        // Move the carousel
+        carousel.style.transform = `translateX(-${currentIndex * 100}%)`;
+    
+        // Update index and loop back to start
+        currentIndex = (currentIndex + 1) % totalImages;
+    }
+    
+// Start the carousel
+setInterval(slideCarousel, 3000);

@@ -180,6 +180,7 @@
 
 <section>
     <div class="container">
+        <h2>Experience with these platforms</h2>
         <div class="carousel-container">
             <div class="carousel">
                 <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1">

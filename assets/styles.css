@@ -1830,3 +1830,21 @@ button.accordion-button {
   color: rgba(0, 0, 0, 0.65);
   transform: translateY(0);
 }
+
+/* ========== CAROUSEL ========== */
+.carousel-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel {
+  display: flex;
+  transition: transform 1s ease;
+  will-change: transform;
+}
+
+.carousel img {
+  min-width: 100%;
+  transition: opacity 1s ease;
+}
