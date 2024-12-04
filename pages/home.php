@@ -154,7 +154,7 @@
             <p class="p-text">I believe great projects come from clear communication and collaboration. My process is simple and ensures we're on the same page every step of the way—from understanding your goals to bringing your vision to reality.</p>
         </div>
         <div class="row d-flex justify-content-center align-items-center flex-lg-row flex-column">
-            <div class="col d-flex flex-column">
+            <div class="col d-flex justify-content-center align-items-center flex-column">
                 <!-- <img src="/assets/images/" alt=""> -->
                  <span class="circle-number">01</span>
                  <p class="p-text text-center"> <strong>Discovery & Planning:</strong> We'll discuss your goals, gather details, and outline a clear plan for your project.</p>
