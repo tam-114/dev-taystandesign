@@ -153,7 +153,7 @@
             <h1 class="h1-text">How this <span class="highlight">Works</span> : Step by Step</h1>
             <p class="p-text">I believe great projects come from clear communication and collaboration. My process is simple and ensures we're on the same page every step of the way—from understanding your goals to bringing your vision to reality.</p>
         </div>
-        <div class="row d-flex justify-content-center align-items-start flex-lg-row flex-column pt-3 gap-lg-5">
+        <div class="row d-flex justify-content-center align-items-start flex-lg-row flex-column py-4 gap-lg-5">
             <div class="col d-flex justify-content-center align-items-center flex-column" data-aos="fade-up"  data-aos-duration="1500">
                  <span class="circle-number">01</span>
                  <p class="p-text text-center pt-4"> <strong>Discovery & Planning:</strong> We'll discuss your goals, gather details, and outline a clear plan for your project</p>
@@ -171,7 +171,7 @@
                  <p class="p-text text-center pt-4"> <strong>Launch & Support:</strong>  I'll launch your project seamlessly and provide support for any updates or questions.</p>
             </div>
         </div>
-        <div class="d-flex justify-content-center align-items-center" data-aos="fade-up"  data-aos-duration="1500">
+        <div class="d-flex justify-content-center align-items-center pt-2" data-aos="fade-up"  data-aos-duration="1500">
             <a href="/" class="button-primary">Send me a message</a>
             <span class="full-width-line"></span>
         </div>
