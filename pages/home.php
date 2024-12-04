@@ -49,11 +49,50 @@
     </div>
 </section>
 
-<!-- Read Reviews Card -->
+<section class="section-padding">
+    <div class="container">
+        <div class="row row-cols-lg-2 flex-column flex-lg-row justify-content-center align-items-center align-items-lg-start">
+        <div class="col d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-duration="1800">
+                <img src="./assets/images/how-i-help.png" alt="" class="about-img img-fluid mx-auto"> 
+            </div>
+            <div class="col">
+                <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">How I Help</h4>
+                <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">How Can Taystan Design Help You?</h1>
+                <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">I provide affordable web solutions that deliver results. I’ll create beautiful, functional, and engaging websites that:</p>
 
-<!-- Tabs Navigation: About Taystan My Pricing Plans Read Reviews How It Works -->
+                <div class="d-flex justify-content-center align-items-baseline flex-row gx-4"  data-aos="fade-up" data-aos-duration="1500">
+                    <div>
+                        <img src="/assets/images/message.svg" alt="">
+                    </div>
+                    <div>
+                        <h3 class="h3-text pb-1">Simplify Your Message</h3>
+                        <p class="p-text">Highlight your story and values to build trust with your audience</p>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
+                    <div>
+                        <img src="/assets/images/boost.svg" alt="">
+                    </div>
+                    <div>
+                        <h3 class="h3-text pb-1">Boost Engagement</h3>
+                        <p class="p-text">Integrate features that drive donations, inquiries, or purchases seamlessly</p>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
+                    <div>
+                        <img src="/assets/images/budget.svg" alt="">
+                    </div>
+                    <div>
+                        <h3 class="h3-text pb-1">Stay Budget-Friendly</h3>
+                        <p class="p-text">Integrate features that drive donations, inquiries, or purchases seamlessly</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-
+<!-- Why Choose -->
 <section class="section-padding">
     <div class="container">
         <div class="row row-cols-lg-2 flex-column flex-lg-row justify-content-center align-items-center align-items-lg-start">

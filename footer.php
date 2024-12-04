@@ -54,7 +54,7 @@
           </div>
         </div>
         <div class="footer_copyright">
-          <p class="footer_copyright-p">Inspired by <a href="https://shufflehound.com/lemmony/agency/" class="noLink" rel="nofollow"> Lemmony Agency Theme</a> | Made with <i class="fa-solid fa-heart fa-xs px-1"></i> by Taystan.Design |  All Rights Reserved <?php echo date('Y')?></p>
+          <p class="footer_copyright-p">Made with <i class="fa-solid fa-heart fa-xs px-1"></i> by Taystan.Design |  All Rights Reserved <?php echo date('Y')?></p>
         </div>
        
     </div>
