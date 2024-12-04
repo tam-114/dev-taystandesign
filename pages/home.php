@@ -172,7 +172,7 @@
             </div>
         </div>
         <div class="d-flex justify-content-center align-items-center pt-2" data-aos="fade-up"  data-aos-duration="1500">
-            <a href="/" class="button-primary">Send me a message</a>
+            <a href="/contact" class="button-primary">Send me a message</a>
             <span class="full-width-line"></span>
         </div>
     </div>
@@ -220,8 +220,9 @@
                 </div>
             </div>
         </div>
-        <div class="d-flex justify-content-center align-items-center pt-4 pb-5" data-aos="fade-up"  data-aos-duration="1500">
-            <a href="/testimonials" class="button-primary">Read Testimonials</a>
+        <div class="d-flex justify-content-center align-items-center pt-2" data-aos="fade-up"  data-aos-duration="1500">
+            <a href="/testimonials" class="button-primary">Send me a message</a>
+            <span class="full-width-line"></span>
         </div>
     </div>
 </section>
