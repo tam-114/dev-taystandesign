@@ -139,7 +139,7 @@
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-duration="1800">
-                <img src="./assets/images/pexels-cottonbro-studio-5076523-683x1024.jpg" alt="" class="about-img img-fluid mx-auto">
+                <img src="./assets/images/about-me-img.png" alt="" class="img-fluid mx-auto">
             </div>
         </div>
     </div>
