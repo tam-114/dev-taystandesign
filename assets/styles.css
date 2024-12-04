@@ -54,7 +54,9 @@ a.noLink {
     color: inherit;
 }
 
-
+.nav-link {
+  font-size: 18px;
+}
 
 /* =========== GENERAL ============ */
 .btn {
