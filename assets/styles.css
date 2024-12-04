@@ -1832,19 +1832,34 @@ button.accordion-button {
 }
 
 /* ========== CAROUSEL ========== */
-.carousel-container {
+.custom-carousel-container {
   width: 100%;
   overflow: hidden;
   position: relative;
-}
-
-.carousel {
   display: flex;
-  transition: transform 1s ease;
-  will-change: transform;
+  justify-content: center;
+  align-items: center;
+  background: #f9f9f9;
+  padding: 10px 0;
 }
 
-.carousel img {
-  min-width: 100%;
-  transition: opacity 1s ease;
+.custom-carousel {
+  display: flex;
+  flex-wrap: nowrap;
+  animation: slide-left 10s linear infinite;
+}
+
+.carousel-image {
+  width: 150px; /* Adjust to your preference */
+  margin: 0 10px;
+  transition: transform 0.5s ease;
+}
+
+@keyframes slide-left {
+  0% {
+      transform: translateX(0);
+  }
+  100% {
+      transform: translateX(-100%);
+  }
 }
