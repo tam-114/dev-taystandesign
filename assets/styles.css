@@ -171,6 +171,10 @@ a.noLink {
     font-weight: 400;
 }
 
+.highlight {
+  border-bottom: 3px solid rgba(250, 100, 0 / 28%);
+}
+
 
 @media screen and (min-width: 992px) {
     .hero-img {
