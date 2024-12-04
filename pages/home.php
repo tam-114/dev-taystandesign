@@ -60,30 +60,30 @@
                 <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">How Can Taystan Design Help You?</h1>
                 <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">I provide affordable web solutions that deliver results. I’ll create beautiful, functional, and engaging websites that:</p>
 
-                <div class="d-flex justify-content-center align-items-baseline flex-row gx-4"  data-aos="fade-up" data-aos-duration="1500">
+                <div class="d-flex justify-content-center align-items-baseline flex-row gx-4 gap-4"  data-aos="fade-up" data-aos-duration="1500">
                     <div>
                         <img src="/assets/images/message.svg" alt="">
                     </div>
                     <div>
-                        <h3 class="h3-text pb-1">Simplify Your Message</h3>
+                        <h3 class="h3-text pb-0">Simplify Your Message</h3>
                         <p class="p-text">Highlight your story and values to build trust with your audience</p>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
+                <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
                         <img src="/assets/images/boost.svg" alt="">
                     </div>
                     <div>
-                        <h3 class="h3-text pb-1">Boost Engagement</h3>
+                        <h3 class="h3-text pb-0">Boost Engagement</h3>
                         <p class="p-text">Integrate features that drive donations, inquiries, or purchases seamlessly</p>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
+                <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
                         <img src="/assets/images/budget.svg" alt="">
                     </div>
                     <div>
-                        <h3 class="h3-text pb-1">Stay Budget-Friendly</h3>
+                        <h3 class="h3-text pb-0">Stay Budget-Friendly</h3>
                         <p class="p-text">Integrate features that drive donations, inquiries, or purchases seamlessly</p>
                     </div>
                 </div>
