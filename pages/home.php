@@ -21,7 +21,7 @@
     </div>
 </section>
 
-<section class="services-padding">
+<section class="section-padding">
     <div class="container" id="explore">
         <div class="row row-cols-lg-4 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start services gx-5 gy-2">
             <div class="col d-flex flex-column" data-aos="fade-up" data-aos-duration="1500">
@@ -57,8 +57,8 @@
             </div>
             <div class="col">
                 <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">How I Help</h4>
-                <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">How Can Taystan Design Help You?</h1>
-                <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">I provide affordable web solutions that deliver results. I’ll create beautiful, functional, and engaging websites that:</p>
+                <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">How Can <u class="custom-underline">Taystan</u> Design <span class="highlight">Help</span>  You?</h1>
+                <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">I provide affordable web solutions that deliver results. I'll create beautiful, functional, and engaging websites that:</p>
 
                 <div class="d-flex justify-content-center align-items-baseline flex-row gx-4 gap-4"  data-aos="fade-up" data-aos-duration="1500">
                     <div>

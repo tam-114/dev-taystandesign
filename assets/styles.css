@@ -175,6 +175,13 @@ a.noLink {
   border-bottom: 3px solid rgba(250, 100, 0, 0.28);
 }
 
+.custom-underline {
+  text-decoration: underline; /* Ensures underline is applied */
+  text-decoration-color: rgba(250, 100, 0, 0.28); /* Custom color */
+  text-decoration-thickness: 3px; /* Adjust thickness */
+  text-underline-offset: 4px; /* Adds space between text and underline */
+}
+
 
 @media screen and (min-width: 992px) {
     .hero-img {
@@ -203,7 +210,7 @@ a.noLink {
 }
 
 /* ========== SERVICES =========== */
-.services-padding {
+.section-padding {
     padding: 3rem 0;
 }
 
