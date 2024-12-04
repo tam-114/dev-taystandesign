@@ -102,21 +102,39 @@
                 <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">Choose Taystan Design for a blend of creativity and technical expertise that brings your vision to reality. With a focus on user-friendly, visually stunning, and inclusive designs, I deliver solutions tailored to your unique needs</p>
 
                 <div class="d-flex justify-content-center align-items-baseline flex-row gx-4"  data-aos="fade-up" data-aos-duration="1500">
-                    <div class="svg-about_container">
-                        <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="40px" viewBox="0 0 24 24" width="40px" fill="#5f6368"><g><rect fill="none" height="24" width="24"/></g><g><g><g><path d="M9,21c0,0.55,0.45,1,1,1h4c0.55,0,1-0.45,1-1v-1H9V21z M12,2C8.14,2,5,5.14,5,9c0,2.38,1.19,4.47,3,5.74V17 c0,0.55,0.45,1,1,1h6c0.55,0,1-0.45,1-1v-2.26c1.81-1.27,3-3.36,3-5.74C19,5.14,15.86,2,12,2z M14,13.7V16h-4v-2.3 C8.48,12.63,7,11.53,7,9c0-2.76,2.24-5,5-5s5,2.24,5,5C17,11.49,15.49,12.65,14,13.7z"/></g></g></g></svg>
+                    <div>
+                        <img src="/assets/images/transparency.svg" alt="">
                     </div>
                     <div>
-                        <h3 class="h3-text pb-1">The Vision</h3>
-                        <p class="p-text">Realizing your vision from ideas to computer screens--creating a user-friendly experience and captivating website</p>
+                        <h3 class="h3-text pb-0">Transparency You Can Count On</h3>
+                        <p class="p-text">Clear communication and no hidden fees</p>
                     </div>
                 </div>
                 <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
-                    <div class="svg-about_container">
-                        <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="40px" viewBox="0 0 24 24" width="40px" fill="#5f6368"><rect fill="none" height="24" width="24"/><path d="M22,5.18L10.59,16.6l-4.24-4.24l1.41-1.41l2.83,2.83l10-10L22,5.18z M19.79,10.22C19.92,10.79,20,11.39,20,12 c0,4.42-3.58,8-8,8s-8-3.58-8-8c0-4.42,3.58-8,8-8c1.58,0,3.04,0.46,4.28,1.25l1.44-1.44C16.1,2.67,14.13,2,12,2C6.48,2,2,6.48,2,12 c0,5.52,4.48,10,10,10s10-4.48,10-10c0-1.19-0.22-2.33-0.6-3.39L19.79,10.22z"/></svg>
+                    <div>
+                        <img src="/assets/images/accessibility.svg" alt="">
                     </div>
                     <div>
-                        <h3 class="h3-text pb-1">The Plan</h3>
-                        <p class="p-text">Working together to create your ideal website as a one-stop-shop for your web design and development needs</p>
+                        <h3 class="h3-text pb-0">Focus on Inclusion and Accessibility</h3>
+                        <p class="p-text">Websites that are inclusive and easy to navigate for everyone</p>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
+                    <div>
+                        <img src="/assets/images/goals.svg" alt="">
+                    </div>
+                    <div>
+                        <h3 class="h3-text pb-0">Experience with Your Goals</h3>
+                        <p class="p-text">I've worked with organizations and businesses just like yours, helping them increase visibility and achieve their goals</p>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-center align-items-baseline flex-row"  data-aos="fade-up"  data-aos-duration="1500">
+                    <div>
+                        <img src="/assets/images/resourceful.svg" alt="">
+                    </div>
+                    <div>
+                        <h3 class="h3-text pb-0">Resourceful and Adaptable</h3>
+                        <p class="p-text">Whether you need a refresh of a full redesign, I’ll find solutions that fit your timeline and budget</p>
                     </div>
                 </div>
             </div>
