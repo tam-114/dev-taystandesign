@@ -181,7 +181,7 @@
 <section class="section-padding">
     <div class="container testimonials pt-4 mt-4">
         <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Testimonials</h4>
-        <h1 class="text-center" data-aos="fade-up"  data-aos-duration="1500">Some Love From My Clients <i class="fa-solid fa-heart fa-xs"></i></h1>
+        <h1 class="text-center" data-aos="fade-up"  data-aos-duration="1500">Some <span class="highlight">Love</span> From My Clients <i class="fa-solid fa-heart fa-xs"></i></h1>
         <div class="row row-cols-lg-3 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center testimonials-quotes">
             <div class="col quote-card" data-aos="fade-up"  data-aos-duration="1500">
                 <p class="p-text">“ It was an absolute pleasure working with Taystan Design, LLC. Ms. Taylor, the owner, is very knowledgeable and professional… ”</p>
@@ -277,7 +277,7 @@
             <div class="overlay-text">
                 <h4>Get in Touch</h4>
                 <h1>Ready to <span id="typewriter"></span></h1>
-                <h1>Request a Free Quote</h1>
+                <h1>Request a <span class="highlight">FREE</span> Website Audit</h1>
             </div>
             <div class="d-flex justify-content-center align-items-center pt-3">
                 <a href="/contact" class="button-secondary">Contact Me</a>
@@ -292,7 +292,7 @@
         <div class="row row-cols-lg-2 row-cols-1 flex-lg-row flex-column pb-lg-5 pt-5" data-aos="fade-up" data-aos-duration="1500">
             <div class="col">
             <h4 class="subtitle-text">Pricing Plan</h4>
-                <h1>A Price for Every Plan Out There</h1>
+                <h1>A <span class="highlight">Price</span> for Every Plan Out There</h1>
             </div>
             <div class="col d-flex justify-content-center align-items-center">
                 <p class="p-text">Check out these pricing plans to find the one that works best for you. Each requires a 30% deposit towards the final bill, and any plan can be modified to your needs!</p>
