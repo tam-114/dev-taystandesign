@@ -145,7 +145,14 @@
     </div>
 </section>
 
-<!-- Projects -->
+<!-- Work Process -->
+ <section class="section-padding">
+    <div class="container text-center">
+        <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">My Work Process</h4>
+        <h1 class="h1-text">How this <span class="highlight">Works</span> : Step by Step</h1>
+        <p class="p-text">I believe great projects come from clear communication and collaboration. My process is simple and ensures we're on the same page every step of the way—from understanding your goals to bringing your vision to reality.</p>
+    </div>
+ </section>
 
 <section class="section-padding">
     <div class="container testimonials pt-4 mt-4">
