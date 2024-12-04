@@ -316,7 +316,7 @@ a.noLink {
   position: relative;
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   .row .col:nth-child(-n+3) .circle-number::after {
     content: "\f178";
     font-family: "Font Awesome 5 Free";
@@ -328,7 +328,23 @@ a.noLink {
     font-size: 20px;
     color: var(--dark-red);
   }
+} */
+
+@media (min-width: 992px) {
+  .row .col:nth-child(-n+3) .circle-number::after {
+    content: "";
+    position: absolute;
+    right: -177%; /* Adjust as needed */
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px; /* Width of the arrow */
+    height: 20px; /* Height of the arrow */
+    background-image: url("/assets/images/Arrow-4.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
 }
+
 
 
 /*-- -------------------------- -->
