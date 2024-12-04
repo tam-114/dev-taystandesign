@@ -233,7 +233,7 @@
                 </div>
             </div>
         </div>
-        <div class="d-flex justify-content-center align-items-center pt-2" data-aos="fade-up"  data-aos-duration="1500">
+        <div class="d-flex justify-content-center align-items-center pt-3" data-aos="fade-up"  data-aos-duration="1500">
             <a href="/testimonials" class="button-primary">Read testimonials</a>
             <span class="full-width-line"></span>
         </div>
