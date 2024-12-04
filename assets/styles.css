@@ -612,8 +612,8 @@ a.noLink {
     font-weight: 700;
 }
 
-.testimonials-quotes .bg-gray {
-    background-color: var(--light-gray);
+.testimonials-quotes .bg-pink {
+    background-color: var(--pink-bg);
     border-radius: 15px;
 }
 
