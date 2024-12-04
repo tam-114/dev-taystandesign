@@ -149,8 +149,19 @@
  <section class="section-padding">
     <div class="container text-center">
         <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">My Work Process</h4>
-        <h1 class="h1-text">How this <span class="highlight">Works</span> : Step by Step</h1>
-        <p class="p-text">I believe great projects come from clear communication and collaboration. My process is simple and ensures we're on the same page every step of the way—from understanding your goals to bringing your vision to reality.</p>
+        <div data-aos="fade-up"  data-aos-duration="1500">
+            <h1 class="h1-text">How this <span class="highlight">Works</span> : Step by Step</h1>
+            <p class="p-text">I believe great projects come from clear communication and collaboration. My process is simple and ensures we're on the same page every step of the way—from understanding your goals to bringing your vision to reality.</p>
+        </div>
+        <div class="row d-flex justify-content-center align-items-center flex-lg-row flex-column">
+            <div class="col d-flex flex-column">
+                <!-- <img src="/assets/images/" alt=""> -->
+                 <span class="circle-number">01</span>
+            </div>
+            <div class="col d-flex flex-column"></div>
+            <div class="col d-flex flex-column"></div>
+            <div class="col d-flex flex-column"></div>
+        </div>
     </div>
  </section>
 

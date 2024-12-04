@@ -299,7 +299,24 @@ a.noLink {
     fill: var(--text-color);
 }
 
+
 /* ========= STEPS =============== */
+
+.circle-number {
+  display: block;
+  border-radius: 100%;
+  width: 120px;
+  height: 120px;
+  background-color: #FDE4EA;
+  border: 1px solid #472526;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
 /*-- -------------------------- -->
 <---           Steps            -->
 <--- -------------------------- -*/
