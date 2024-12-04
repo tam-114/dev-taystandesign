@@ -334,7 +334,7 @@ a.noLink {
   .row .col:nth-child(-n+3) .circle-number::after {
     content: "";
     position: absolute;
-    right: 177%; /* Adjust as needed */
+    right: -177%; /* Adjust as needed */
     top: 50%;
     transform: translateY(-50%);
     width: 104px;
