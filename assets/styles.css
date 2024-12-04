@@ -171,16 +171,27 @@ a.noLink {
     font-weight: 400;
 }
 
-.highlight{
+/* .highlight{
   border-bottom: 3px solid rgba(250, 100, 0, 0.28);
+} */
+
+.highlight {
+  position: relative;
+  display: inline-block;
+  z-index: 0; /* Ensure the text is on top */
 }
 
-.custom-underline {
-  text-decoration: underline; /* Ensures underline is applied */
-  text-decoration-color: rgba(250, 100, 0, 0.28); /* Custom color */
-  text-decoration-thickness: 3px; /* Adjust thickness */
-  text-underline-offset: 4px; /* Adds space between text and underline */
+.highlight::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 50%; /* Adjust to cover the bottom portion of the text */
+  background-color: rgba(250, 100, 0, 0.28); /* Your highlight color */
+  z-index: -1; /* Places the highlight behind the text */
 }
+
 
 
 @media screen and (min-width: 992px) {

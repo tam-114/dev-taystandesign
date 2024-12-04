@@ -57,7 +57,7 @@
             </div>
             <div class="col">
                 <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">How I Help</h4>
-                <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">How Can <u class="custom-underline">Taystan</u> Design <span class="highlight">Help</span>  You?</h1>
+                <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">How Can Taystan Design <span class="highlight">Help</span> You?</h1>
                 <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">I provide affordable web solutions that deliver results. I'll create beautiful, functional, and engaging websites that:</p>
 
                 <div class="d-flex justify-content-center align-items-baseline flex-row gx-4 gap-4"  data-aos="fade-up" data-aos-duration="1500">
