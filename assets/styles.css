@@ -1850,7 +1850,7 @@ button.accordion-button {
 }
 
 .carousel-image {
-  width: 150px; /* Adjust to your preference */
+  width: 100%;
   margin: 0 10px;
   transition: transform 0.5s ease;
 }

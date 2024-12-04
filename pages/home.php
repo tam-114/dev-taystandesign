@@ -178,7 +178,7 @@
     </div>
 </section>
 
-<section>
+<section class="bg-body-pink section-padding">
     <div class="container">
         <h2>Experience with these platforms</h2>
         <div class="custom-carousel-container">
