@@ -178,7 +178,7 @@ a.noLink {
 .highlight {
   position: relative;
   display: inline-block;
-  z-index: 0; /* Ensure the text is on top */
+  z-index: 0;
 }
 
 .highlight::before {
@@ -186,10 +186,10 @@ a.noLink {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 0;
-  height: 50%; /* Adjust to cover the bottom portion of the text */
-  background-color: rgba(250, 100, 0, 0.28); /* Your highlight color */
-  z-index: -1; /* Places the highlight behind the text */
+  bottom: 10%;
+  height: 25%;
+  background-color: rgba(250, 100, 0, 0.28);
+  z-index: -1;
 }
 
 
