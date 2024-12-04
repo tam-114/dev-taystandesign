@@ -43,14 +43,14 @@ const faqItems = Array.from(document.querySelectorAll('.cs-faq-item'));
 
 
 //Carousel
-const carousel = document.querySelector('.custom-carousel');
+const customCarousel = document.querySelector('.custom-carousel');
 const images = document.querySelectorAll('.carousel-image');
 const totalImages = images.length;
 
 // Clone the images to create a seamless loop
 images.forEach(image => {
     const clone = image.cloneNode(true);
-    carousel.appendChild(clone);
+    customCarousel.appendChild(clone);
 });
 
 let scrollPosition = 0;
@@ -58,7 +58,7 @@ let scrollPosition = 0;
 function scrollCarousel() {
     // Move the carousel leftward
     scrollPosition -= 1; // Adjust speed by changing this value
-    carousel.style.transform = `translateX(${scrollPosition}px)`;
+    customCarousel.style.transform = `translateX(${scrollPosition}px)`;
 
     // Reset position if it reaches the end of the original images
     if (Math.abs(scrollPosition) >= totalImages * (images[0].offsetWidth + 10)) {
