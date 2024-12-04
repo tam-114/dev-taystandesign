@@ -230,10 +230,9 @@
 <!-- ============================================ -->
 <!--                   Steps                      -->
 <!-- ============================================ -->
-
+<!-- 
 <section id="steps-284">
     <div class="cs-container" data-aos="fade-up"  data-aos-duration="1500">
-        <!-- Left Section -->
         <div class="cs-content">
             <h4 class="subtitle-text">The Process</h4>
              <h1 class="h1-text">My Process from Start to Finish</h1>
@@ -242,7 +241,6 @@
             </p>
             <a href="/contact" class="button-primary">Contact Me</a>
         </div>
-        <!-- Right Section -->
         <ul class="cs-right-section">
             <li class="cs-item">
                 <span class="cs-number">01</span>
@@ -270,7 +268,7 @@
             </li>
         </ul>
     </div>
-</section>
+</section> -->
 
 
 <section>
