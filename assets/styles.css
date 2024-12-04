@@ -171,8 +171,7 @@ a.noLink {
     font-weight: 400;
 }
 
-.highlight::after {
-  content: "";
+.highlight{
   border-bottom: 3px solid rgba(250, 100, 0, 0.28);
 }
 
