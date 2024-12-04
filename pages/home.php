@@ -98,7 +98,7 @@
         <div class="row row-cols-lg-2 flex-column flex-lg-row justify-content-center align-items-center align-items-lg-start">
             <div class="col">
                 <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">About Me</h4>
-                <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">Why Choose Taystan Design?</h1>
+                <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">Why <span class="highlight">Choose</span> Taystan Design?</h1>
                 <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">Choose Taystan Design for a blend of creativity and technical expertise that brings your vision to reality. With a focus on user-friendly, visually stunning, and inclusive designs, I deliver solutions tailored to your unique needs</p>
 
                 <div class="d-flex align-items-baseline flex-row gap-4"  data-aos="fade-up" data-aos-duration="1500">
