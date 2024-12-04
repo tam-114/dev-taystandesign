@@ -43,7 +43,7 @@ $projects = $result ? $result->fetch_all(MYSQLI_ASSOC) : [];
 ?>
 
 <div class="container pb-0">
-    <h1 class="h1-text">My Projects</h1>
+    <h1 class="h1-text">My <span class="highlight">Projects</span></h1>
     <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>">Home</a></li>
