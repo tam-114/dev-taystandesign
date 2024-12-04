@@ -195,7 +195,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col bg-gray quote-card" data-aos="fade-up"  data-aos-duration="2000">
+            <div class="col bg-pink quote-card" data-aos="fade-up"  data-aos-duration="2000">
                 <p class="p-text">“Taylor was great to work with. She is very professional, timely and knows what she is doing. She revamped our website in a way that brings it more to life….”</p>
                 <div class="d-flex justify-content-center align-items-center flex-row gx-2">
                     <div>
