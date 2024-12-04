@@ -1836,9 +1836,7 @@ button.accordion-button {
   width: 100%;
   overflow: hidden;
   position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  /* background: #f9f9f9; */
   padding: 10px 0;
 }
 
@@ -1849,12 +1847,11 @@ button.accordion-button {
 }
 
 .carousel-image {
-  width: 100%;
+  width: 150px;
   margin: 0 10px;
-  transition: transform 0.5s ease;
 }
 
-@keyframes slide-left {
+@keyframes scroll {
   0% {
       transform: translateX(0);
   }
