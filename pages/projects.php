@@ -45,8 +45,8 @@ $projects = $result ? $result->fetch_all(MYSQLI_ASSOC) : [];
 <div class="container pb-0">
     <div class="d-flex align-items-center flex-column pb-3" data-aos="fade-up" data-aos-duration="1500">
             <div class="text-center">
-                <h4 class="subtitle-text">Projects</h4>
-                <h1>Turning <span class="highlight">Ideas</span> Into Interactive Experiences</h1>
+                <h4 class="subtitle-text">Client Projects</h4>
+                <h1 class="h1-text">Turning <span class="highlight">Ideas</span> Into Interactive Experiences</h1>
             </div>
             <div class="d-flex justify-content-center align-items-center">
                 <p class="p-text text-center">Explore my portfolio to see how creativity meets functionality. Each project is crafted with care to deliver results, inspire users, and bring visions to reality.</p>
