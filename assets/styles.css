@@ -1842,9 +1842,10 @@ button.accordion-button {
 
 .custom-carousel {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
+  overflow-x: scroll;
 }
 
 .carousel-image {
