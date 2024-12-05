@@ -14,7 +14,7 @@
                     <a href="/projects" class="btn-secondary">View projects <i class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
-            <div class="col d-flex justify-content-center align-items-center p-4 pb-5" data-aos="fade-up"  data-aos-duration="1500">
+            <div class="col d-flex justify-content-center align-items-center p-4 pb-5" data-aos="fade-up" data-aos-duration="1500">
                 <img src="./assets/images/hero_img2.png" alt="" class="img-fluid hero-img">
             </div>
         </div>
@@ -543,9 +543,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
     <div class="container mb-5">
         <div class="row flex-lg-row flex-column">
             <div class="col-lg-5 col-12 " data-aos="fade-up" data-aos-duration="1500">
-                <div class="svg-faq_container">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 0 24 24" width="40px" fill="#5f6368"><path d="M0 0h24v24H0z" fill="none"/><path d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"/></svg>
-                </div>
+                <h4 class="subtitle-text">FAQ</h4>
                 <div class="faq_intro" >
                     <h1 class="h1-faq">Here are some frequently asked <span class="highlight">questions</span> </h1>
                     <p class="p-text py-2">Don't see an answer here that you're looking for? Feel free to reach out to learn more!</p>
