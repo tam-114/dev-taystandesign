@@ -44,13 +44,16 @@
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link <?php echo (isset($_GET['path']) && $_GET['path'] === '') ? 'active' : ''; ?>" aria-current="page" href="<?php echo BASE_URL; ?>">Home</a>
+          <a class="nav-link <?php echo (isset($_GET['path']) && $_GET['path'] === '') ? 'active' : ''; ?>" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'projects') ? 'active' : ''; ?>" href="<?php echo BASE_URL; ?>projects">Projects</a>
+          <a class="nav-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'projects') ? 'active' : ''; ?>" href="/projects">Projects</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'testimonials') ? 'active' : ''; ?>" href="<?php echo BASE_URL; ?>testimonials">Testimonials</a>
+          <a class="nav-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'testimonials') ? 'active' : ''; ?>" href="/testimonials">Testimonials</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'pricing') ? 'active' : ''; ?>" href="/pricing">Pricing</a>
         </li>
       </ul>
       <div class="header-links navbar-links">
