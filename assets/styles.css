@@ -1834,31 +1834,43 @@ button.accordion-button {
 /* ========== CAROUSEL ========== */
 .custom-carousel-container {
   width: 100%;
-  overflow: hidden;
+  overflow-x: auto; /* Allow horizontal scrolling */
   position: relative;
-  /* background: #f9f9f9; */
   padding: 10px 0;
 }
 
 .custom-carousel {
   display: flex;
   flex-wrap: nowrap;
-  justify-content: center;
+  justify-content: flex-start; /* Align items to the left */
   align-items: center;
-  overflow-x: auto;
+  gap: 10px; /* Add spacing between images */
 }
 
 .carousel-image {
   width: 170px;
-  margin: 0 10px;
   height: 40px;
+  flex-shrink: 0; /* Prevent images from shrinking */
+  margin: 0 10px;
+  scroll-snap-align: center; /* Optional: Align to center when scrolling stops */
 }
 
-@keyframes scroll {
-  0% {
-      transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
+/* Optional: Enhance scroll behavior */
+.custom-carousel-container {
+  scroll-snap-type: x mandatory; /* Enables smooth snapping */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling for mobile */
+}
+
+/* For Accessibility: Add a scroll bar on mobile */
+.custom-carousel-container::-webkit-scrollbar {
+  height: 8px;
+}
+
+.custom-carousel-container::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+.custom-carousel-container::-webkit-scrollbar-track {
+  background-color: transparent;
 }
