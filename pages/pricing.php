@@ -10,7 +10,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                 <h1>A <span class="highlight">Price</span> for Every Plan Out There</h1>
             </div>
             <div class="d-flex justify-content-center align-items-center">
-                <p class="p-text">Check out these pricing plans to find the one that works best for you. Each requires a 30% deposit towards the final bill, and any plan can be modified to your needs!</p>
+                <p class="p-text text-center">Check out these pricing plans to find the one that works best for you. Each requires a 30% deposit towards the final bill, and any plan can be modified to your needs!</p>
             </div>
         </div>
 
