@@ -178,7 +178,7 @@
     </div>
 </section>
 
-<section class="bg-body-pink section-padding">
+<section class="bg-body-pink">
     <div class="container"> 
         <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Website Builders</h4>
         <h1 class="h1-text text-center" style="font-size: 30px;" data-aos="fade-up"  data-aos-duration="1500">Experience with these <span class="highlight">CMS</span> platforms</h1>
