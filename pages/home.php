@@ -505,7 +505,8 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                         <a href="/contact" class="button-tertiary">Get started</a>
                     </div>
                 </li>
-                <li class="cs-item pt-lg-0 pt-5" data-aos="fade-up" data-aos-duration="1500">
+                <li class="cs-item pt-lg-0 pt-5 d-flex justify-content-between" data-aos="fade-up" data-aos-duration="1500">
+                    <div>
                     <span class="cs-package">Custom Package</span>
                     <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
                         <span class="cs-price">$900</span>
@@ -537,7 +538,11 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                             </li>
                         </ul>
                     </div>
-                    <a href="/contact" class="button-primary">Get started</a>
+                    </div>
+                    <div>
+                        <a href="/contact" class="button-primary">Get started</a>
+                    </div>
+                    
                 </li>
             </ul>
         </div>
