@@ -15,7 +15,7 @@
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center p-4 pb-5" data-aos="fade-up"  data-aos-duration="1500">
-                <img src="./assets/images/hero_img2.png" alt="" class="img-fluid">
+                <img src="./assets/images/hero_img2.png" alt="" class="img-fluid hero-img">
             </div>
         </div>
     </div>
