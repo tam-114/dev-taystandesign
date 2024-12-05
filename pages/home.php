@@ -189,18 +189,6 @@
                 <img src="/assets/images/shopify 1.png" alt="Image 3" class="carousel-image">
                 <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image" style="width:200px;height:50px;">
                 <img src="/assets/images/framer-logo 1.png" alt="Image 5" class="carousel-image">
-                
-                <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;height:50px;">
-                <img src="/assets/images/Webflow_logo.svg" alt="Image 2" class="carousel-image">
-                <img src="/assets/images/shopify 1.png" alt="Image 3" class="carousel-image">
-                <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image" style="width:200px;height:50px;">
-                <img src="/assets/images/framer-logo 1.png" alt="Image 5" class="carousel-image">
-
-                <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;height:50px;">
-                <img src="/assets/images/Webflow_logo.svg" alt="Image 2" class="carousel-image">
-                <img src="/assets/images/shopify 1.png" alt="Image 3" class="carousel-image">
-                <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image" style="width:200px;height:50px;">
-                <img src="/assets/images/framer-logo 1.png" alt="Image 5" class="carousel-image">
             </div>
         </div>
     </div>
