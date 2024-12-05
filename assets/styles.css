@@ -1548,9 +1548,6 @@ button.accordion-button {
 
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
-    #reviews-355 {
-        padding: var(--sectionPadding);
-    }
     #reviews-355 .cs-container {
         width: 100%;
         max-width: 90rem;
