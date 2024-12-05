@@ -8,8 +8,8 @@ $siteKey = "6LfJvZIqAAAAAKxOtCB0k4bH_2oz23R8f9gomnUH";
         <!--Form-->
         <form class="cs-form" id="cs-form-1333" name="Contact Form" method="POST" action="process_form.php">
             <div class="cs-content">
-                <span class="cs-topper">Get in Touch</span>
-                <h2 class="cs-title">Contact Me</h2>
+            <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Get in Touch</h4>
+            <h1 class="h1-text text-center" data-aos="fade-up"  data-aos-duration="1500"><span class="highlight">Contact</span> Me</h1>
             </div>
             <label class="cs-label">
                 First Name
@@ -44,8 +44,10 @@ $siteKey = "6LfJvZIqAAAAAKxOtCB0k4bH_2oz23R8f9gomnUH";
             <button type="submit" class="button-tertiary d-flex align-self-start g-recaptcha" data-sitekey="<?php echo $siteKey ?>" data-callback="onSubmit">Send me a message</button>
         </form>
         <div class="cs-content">
-            <span class="cs-topper">Answered Questions</span>
-            <h2 class="cs-title">Frequently Asked Questions</h2>
+            <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Answered Questions</h4>
+            <h1 class="h1-text text-center" data-aos="fade-up"  data-aos-duration="1500">Frequently Asked <span class="highlight">Questions</span></h1>
+            <!-- <span class="cs-topper">Answered Questions</span>
+            <h2 class="cs-title">Frequently Asked Questions</h2> -->
             <!-- <ul class="cs-faq-group">
                 <li class="cs-faq-item active">
                     <button class="cs-button">
