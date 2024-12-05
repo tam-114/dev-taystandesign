@@ -10,7 +10,7 @@
                  <p class="p-text">Creating user-friendly websites with <span class="highlight">affordable</span> solutions for growing businesses and <span class="highlight">impactful</span> organizations</p>
 
                 <div class="flex-row">
-                    <a href="#explore" class="button-primary">Explore site</a>
+                    <a href="#explore" class="button-tertiary">Discover more</a>
                     <a href="/projects" class="btn-secondary">View projects <i class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
