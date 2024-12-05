@@ -43,4 +43,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         echo 'Sorry, something went wrong. Please try again later.';
     }
 }
+
+$secretKey = '6LfJvZIqAAAAAPrSJThO-u0mEICVADKGlNjDUqcT';
+$captchaResponse = $_POST['g-recaptcha-response'];
+
+// Make a request to Google to verify the reCAPTCHA response
+$response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret={$secretKey}&response={$captchaResponse}");
+$responseKeys = json_decode($response, true);
+
+if ($responseKeys['success']) {
+    // CAPTCHA verified; process the form
+    echo "Form submitted successfully!";
+} else {
+    // CAPTCHA failed
+    echo "Please complete the CAPTCHA.";
+}
+
 ?>
+
