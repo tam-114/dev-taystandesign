@@ -25,12 +25,13 @@
     <!-- AOS -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
+    <!-- reCAPTCHA -->
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-     <script>
-       function onSubmit(token) {
-         document.getElementById("demo-form").submit();
-       }
-     </script>
+    <script>
+    function onSubmit(token) {
+        document.getElementById("contact-form").submit();
+    }
+</script>
 </head>
 <body>
 
