@@ -194,11 +194,18 @@ a.noLink {
   z-index: -1;
 }
 
+@media (max-width: 991px) {
+  .hero-img {
+      max-height: 500px;
+      max-width: auto;
+  }
+  
+}
 
 
-@media screen and (min-width: 992px) {
+@media (min-width: 992px) {
     .hero-img {
-        max-height: 500px;
+        max-height: 600px;
         max-width: auto;
     }
     
