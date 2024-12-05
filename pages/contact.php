@@ -42,7 +42,7 @@ $siteKey = "6LfJvZIqAAAAAKxOtCB0k4bH_2oz23R8f9gomnUH";
             </label>
             <input type="text" name="honeypot" style="display:none;">
             <div class="d-flex justify-content-start">
-                <button type="submit" class="button-tertiary w-100 d-flex align-self-start g-recaptcha" data-sitekey="<?php echo $siteKey ?>" data-callback="onSubmit">Send me a message</button>
+                <button type="submit" class="button-tertiary d-flex align-self-start g-recaptcha" data-sitekey="<?php echo $siteKey ?>" data-callback="onSubmit" style="width: 100%;">Send me a message</button>
             </div>
 
         </form>
