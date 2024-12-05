@@ -1849,6 +1849,7 @@ button.accordion-button {
 .carousel-image {
   width: 170px;
   margin: 0 10px;
+  height: 40px;
 }
 
 @keyframes scroll {
