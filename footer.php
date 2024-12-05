@@ -1,4 +1,4 @@
-<footer class="section-padding bg-darkred">
+<footer class="section-padding bg-darkred pb-0">
     <div class="container footer_content">
         <div class="row flex-lg-row flex-column">
             <div class="col-lg-7 col-12">
