@@ -441,68 +441,69 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                 </li>
             </ul>
             <ul class="cs-card-group">
-                <li class="cs-item pb-lg-0 pb-5 d-flex justify-content-between" data-aos="fade-up" data-aos-duration="1500">
-                    
-                <div>
-                <span class="cs-package">Starter Package</span>
-                    <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
-                        <span class="cs-price">$300</span>
-                        <p class="cs-item-text">
-                            Best for 1-3 pages
-                        </p>
+                <li class="cs-item pb-lg-0 pb-5 d-flex justify-content-between" data-aos="fade-up" data-aos-duration="1500">   
+                    <div>
+                        <span class="cs-package">Starter Package</span>
+                        <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
+                            <span class="cs-price">$300</span>
+                            <p class="cs-item-text">
+                                Best for 1-3 pages
+                            </p>
+                        </div>
+                        <div class="wrapper pb-3">
+                            <ul>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    Explore Maintenance Plans
+                                </li>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    Offering Hosting
+                                </li>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    3 Revision Sessions
+                                </li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="wrapper pb-3">
-                        <ul>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                Explore Maintenance Plans
-                            </li>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                Offering Hosting
-                            </li>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                3 Revision Sessions
-                            </li>
-                        </ul>
+                    <div>
+                        <a href="/contact" class="button-primary">Get started</a>
                     </div>
-                </div>
-                <div>
-                    <a href="/contact" class="button-primary">Get started</a>
-                </div>
-                   
                 </li>
-                <li class="cs-item cs-popular" data-aos="fade-up" data-aos-duration="1800">
-                <!-- <span class="popular-tag" data-aos="fade-up" data-aos-duration="1800">Popular</span> -->
-                    <span class="cs-package">Pro Package</span>
-                    <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
-                        <span class="cs-price">$600</span>
-                        <p class="cs-item-text">
-                            Best for 4-6 pages
-                        </p>
+                <li class="cs-item cs-popular d-flex justify-content-between" data-aos="fade-up" data-aos-duration="1800">
+                    <div>
+                        <span class="cs-package">Pro Package</span>
+                        <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
+                            <span class="cs-price">$600</span>
+                            <p class="cs-item-text">
+                                Best for 4-6 pages
+                            </p>
+                        </div>
+                        <div class="wrapper pb-3">
+                            <ul>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    Explore Maintenance Plans
+                                </li>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    Included Hosting
+                                </li>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    5 Revision Sessions
+                                </li>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    Catered Training Guide
+                                </li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="wrapper pb-3">
-                        <ul>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                Explore Maintenance Plans
-                            </li>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                Included Hosting
-                            </li>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                5 Revision Sessions
-                            </li>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                Catered Training Guide
-                            </li>
-                        </ul>
+                    <div>
+                        <a href="/contact" class="button-tertiary">Get started</a>
                     </div>
-                    <a href="/contact" class="button-tertiary">Get started</a>
                 </li>
                 <li class="cs-item pt-lg-0 pt-5" data-aos="fade-up" data-aos-duration="1500">
                     <span class="cs-package">Custom Package</span>
