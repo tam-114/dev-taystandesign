@@ -4,12 +4,12 @@ $siteKey = "6LfJvZIqAAAAAKxOtCB0k4bH_2oz23R8f9gomnUH";
 ?>
 
 <section id="contact-1333">
-    <div class="cs-container">
+    <div class="cs-container" data-aos="fade-up"  data-aos-duration="1500">
         <!--Form-->
         <form class="cs-form" id="contact-form" name="Contact Form" method="POST" action="process_form.php">
             <div class="cs-content">
-            <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">Get in Touch</h4>
-            <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500"><span class="highlight">Contact</span> Me</h1>
+            <h4 class="subtitle-text">Get in Touch</h4>
+            <h1 class="h1-text" ><span class="highlight">Contact</span> Me</h1>
             </div>
             <label class="cs-label">
                 First Name
@@ -46,9 +46,9 @@ $siteKey = "6LfJvZIqAAAAAKxOtCB0k4bH_2oz23R8f9gomnUH";
             </div>
 
         </form>
-        <div class="cs-content">
-            <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Answered Questions</h4>
-            <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">Frequently Asked <span class="highlight">Questions</span></h1>
+        <div class="cs-content" data-aos="fade-up" data-aos-duration="1500">
+            <h4 class="subtitle-text text-center">Answered Questions</h4>
+            <h1 class="h1-text">Frequently Asked <span class="highlight">Questions</span></h1>
             <!-- <span class="cs-topper">Answered Questions</span>
             <h2 class="cs-title">Frequently Asked Questions</h2> -->
             <!-- <ul class="cs-faq-group">
