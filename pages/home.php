@@ -184,22 +184,22 @@
         <h1 class="h1-text text-center" style="font-size: 30px;" data-aos="fade-up"  data-aos-duration="1500">Experience with these <span class="highlight">CMS</span> platforms</h1>
         <div class="custom-carousel-container" data-aos="fade-up"  data-aos-duration="1500">
             <div class="custom-carousel">
-            <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;">
+            <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;height:50px;">
                 <img src="/assets/images/Webflow_logo.svg" alt="Image 2" class="carousel-image">
                 <img src="/assets/images/shopify 1.png" alt="Image 3" class="carousel-image">
-                <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image" style="width:200px;">
+                <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image" style="width:200px;height:50px;">
                 <img src="/assets/images/framer-logo 1.png" alt="Image 5" class="carousel-image">
                 
-                <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;">
+                <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;height:50px;">
                 <img src="/assets/images/Webflow_logo.svg" alt="Image 2" class="carousel-image">
                 <img src="/assets/images/shopify 1.png" alt="Image 3" class="carousel-image">
-                <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image">
+                <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image" style="width:200px;height:50px;">
                 <img src="/assets/images/framer-logo 1.png" alt="Image 5" class="carousel-image">
 
-                <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;">
+                <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;height:50px;">
                 <img src="/assets/images/Webflow_logo.svg" alt="Image 2" class="carousel-image">
                 <img src="/assets/images/shopify 1.png" alt="Image 3" class="carousel-image">
-                <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image" style="width:200px;">
+                <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image" style="width:200px;height:50px;">
                 <img src="/assets/images/framer-logo 1.png" alt="Image 5" class="carousel-image">
             </div>
         </div>
