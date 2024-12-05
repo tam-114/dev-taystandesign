@@ -6,7 +6,7 @@ $siteKey = "6LfJvZIqAAAAAKxOtCB0k4bH_2oz23R8f9gomnUH";
 <section id="contact-1333">
     <div class="cs-container">
         <!--Form-->
-        <form class="cs-form" id="cs-form-1333" name="Contact Form" method="POST" action="process_form.php">
+        <form class="cs-form" id="contact-form" name="Contact Form" method="POST" action="process_form.php">
             <div class="cs-content">
             <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">Get in Touch</h4>
             <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500"><span class="highlight">Contact</span> Me</h1>
