@@ -41,7 +41,7 @@ $siteKey = "6LfJvZIqAAAAAKxOtCB0k4bH_2oz23R8f9gomnUH";
                 <textarea class="cs-input cs-textarea" required name="message" id="message" placeholder="Write message..."></textarea>
             </label>
             <input type="text" name="honeypot" style="display:none;">
-            <button type="submit" class="button-tertiary g-recaptcha" data-sitekey="<?php echo $siteKey ?>" data-callback="onSubmit">Send me a message</button>
+            <button type="submit" class="button-tertiary d-flex align-self-start g-recaptcha" data-sitekey="<?php echo $siteKey ?>" data-callback="onSubmit">Send me a message</button>
         </form>
         <div class="cs-content">
             <span class="cs-topper">Answered Questions</span>
