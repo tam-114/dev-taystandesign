@@ -180,7 +180,7 @@
 
 <section class="bg-body-pink section-padding">
     <div class="container">
-        <h2>Experience with these platforms</h2>
+        <h1 class="h1-text text-center">Experience with these <span class="highlight">CMS</span> platforms</h1>
         <div class="custom-carousel-container">
             <div class="custom-carousel">
             <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image">
