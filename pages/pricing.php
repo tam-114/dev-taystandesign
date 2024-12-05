@@ -4,7 +4,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
 <!-- Pricing -->
 <section class="section-padding" id="pricing">
     <div class="container pricing">
-        <div class="d-flex align-items-center" data-aos="fade-up" data-aos-duration="1500">
+        <div class="d-flex align-items-center flex-column" data-aos="fade-up" data-aos-duration="1500">
             <div class="">
                 <h4 class="subtitle-text">Pricing Plan</h4>
                 <h1>A <span class="highlight">Price</span> for Every Plan Out There</h1>
