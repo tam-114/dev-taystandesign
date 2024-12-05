@@ -2,10 +2,10 @@
 <!--                   Reviews                    -->
 <!-- ============================================ -->
 
-<section id="reviews-355">
+<section id="reviews-355" class="section-padding">
     <div class="cs-container">
         <div class="cs-content container" data-aos="fade-up" data-aos-duration="1500">
-        <h4 class="subtitle-text text-center">Answered Questions</h4>
+        <h4 class="subtitle-text text-center">Testimonials</h4>
             <h1 class="h1-text">Building Websites That Work for <span class="highlight">Everyone</span> </h1>
             <p class="p-text">
                 At Taystan Design, I create websites that are not only beautiful but also accessible, inclusive, and diverse. Whether you're a business or an individual, I'm here to help you grow and make a lasting impact online.
