@@ -1585,7 +1585,7 @@ button.accordion-button {
         /* 24px - 32px top & bottom */
         /* 16px - 40px left & right */
         padding: clamp(1.5rem, 3.15vw, 2rem) clamp(1rem, 3.15vw, 2.5rem);
-        background-color: #f7f7f7;
+        background-color: var(--pink-bg);
         border-radius: 1rem;
         /* prevents padding from adding to height and width */
         box-sizing: border-box;
