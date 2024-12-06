@@ -5,7 +5,7 @@ $color = "#1a1a1a";
 <section id="contact-1333">
     <div class="cs-container" data-aos="fade-up"  data-aos-duration="1500">
         <!--Form-->
-        <form class="cs-form" id="contact-form" name="Contact Form" method="POST" action="https://formspree.io/f/xovqbnzp">
+        <form class="cs-form" id="contact-form" name="Contact Form" method="POST" action="https://formspree.io/f/xovqbnzp?redirect=https://taystan.design/thankyou">
             <div class="cs-content">
             <h4 class="subtitle-text">Get in Touch</h4>
             <h1 class="h1-text" ><span class="highlight">Contact</span> Me</h1>
