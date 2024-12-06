@@ -39,7 +39,7 @@ $color = "#1a1a1a";
                 Message
                 <textarea class="cs-input cs-textarea" required name="message" id="message" placeholder="Write message..."></textarea>
             </label>
-            <input type="text" name="honeypot" style="display:none;">
+            <input type="text" name="_gotcha" class="d-none"/>
             <div class="d-flex justify-content-start">
                 <button type="submit" class="button-tertiary w-100 d-flex align-self-start">Send me a message</button>
             </div>
