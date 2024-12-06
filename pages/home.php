@@ -507,42 +507,41 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                 </li>
                 <li class="cs-item pt-lg-0 pt-5 d-flex justify-content-between" data-aos="fade-up" data-aos-duration="1500">
                     <div>
-                    <span class="cs-package">Custom Package</span>
-                    <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
-                        <span class="cs-price">$900</span>
-                        <p class="cs-item-text">
-                            Tailored to Your Needs
-                        </p>
-                    </div>
-                    <div class="wrapper pb-3">
-                        <ul>
-                        <li class="cs-li text-start">
-                            <?php echo $checkmark ?>
-                                Custom Code
-                            </li>
-                            <li class="cs-li text-start" >
+                        <span class="cs-package">Custom Package</span>
+                        <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
+                            <span class="cs-price">$900</span>
+                            <p class="cs-item-text">
+                                Tailored to Your Needs
+                            </p>
+                        </div>
+                        <div class="wrapper pb-3">
+                            <ul>
+                            <li class="cs-li text-start">
                                 <?php echo $checkmark ?>
-                                Included Hosting
-                            </li>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                Unlimited Revision Sessions
-                            </li>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                Catered Training Guide
-                            </li>
-                            <li class="cs-li text-start" >
-                                <?php echo $checkmark ?>
-                                Data-driven SEO/Analytics
-                            </li>
-                        </ul>
-                    </div>
+                                    Custom Code
+                                </li>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    Included Hosting
+                                </li>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    Unlimited Revision Sessions
+                                </li>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    Catered Training Guide
+                                </li>
+                                <li class="cs-li text-start" >
+                                    <?php echo $checkmark ?>
+                                    Data-driven SEO/Analytics
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                     <div>
                         <a href="/contact" class="button-primary">Get started</a>
                     </div>
-                    
                 </li>
             </ul>
         </div>

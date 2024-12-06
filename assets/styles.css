@@ -874,9 +874,7 @@ ul {
     }
     #pricing .cs-item.cs-popular {
       background-color: var(--pink-bg);
-      /* 48px - 64px top & bottom */
-      /* 16px - 32px left & right */
-      padding: clamp(3rem, 6vw, 4rem) clamp(1rem, 1.5vw, 2rem);
+      /* padding: clamp(3rem, 6vw, 4rem) clamp(1rem, 1.5vw, 2rem); */
       border-radius: 10px;
     }
     #pricing .cs-item.cs-popular .cs-package,
