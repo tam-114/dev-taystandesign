@@ -12,19 +12,19 @@ $color = "#1a1a1a";
             </div>
             <label class="cs-label">
                 First Name
-                <input class="cs-input" required type="text" id="fname" name="fname" placeholder="First Name" autocomplete="true">
+                <input class="cs-input" required type="text" id="fname" name="fname" placeholder="First Name" autocomplete>
             </label>
             <label class="cs-label">
                 Last Name
-                <input class="cs-input" required type="text" id="lname" name="lname" placeholder="Last Name" autocomplete="true">
+                <input class="cs-input" required type="text" id="lname" name="lname" placeholder="Last Name" autocomplete>
             </label>
             <label class="cs-label cs-email">
                 Email
-                <input class="cs-input" required type="email" id="email" name="email" placeholder="Email" autocomplete="true">
+                <input class="cs-input" required type="email" id="email" name="email" placeholder="Email" autocomplete>
             </label>
             <label class="cs-label cs-phone">
                 Phone
-                <input class="cs-input" required type="tel" id="phone" name="phone" placeholder="Phone" autocomplete="true">
+                <input class="cs-input" required type="tel" id="phone" name="phone" placeholder="Phone" autocomplete>
             </label>
             <label class="cs-label">
                 Select a Package:
