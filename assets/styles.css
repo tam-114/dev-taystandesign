@@ -162,9 +162,15 @@ a.noLink {
 
 /* ============= HER0 =============== */
 .h1-text {
-    font-size: clamp(38px, 5vw + 10px, 65px);
+    font-size: clamp(45px, 5vw + 10px, 65px);
     line-height: 1.3;
     font-weight: 700;
+}
+
+.hero-h1-text {
+  font-size: clamp(52px, 5vw + 10px, 65px);
+  line-height: 1.3;
+  font-weight: 700;
 }
 
 .p-text {
