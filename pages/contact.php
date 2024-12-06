@@ -5,7 +5,7 @@ $color = "#1a1a1a";
 <section id="contact-1333">
     <div class="cs-container" data-aos="fade-up"  data-aos-duration="1500">
         <!--Form-->
-        <form class="cs-form" id="contact-form" name="Contact Form" method="POST" action="https://formspree.io/f/xovqbnzp?redirect=https://taystan.design/thankyou">
+        <form class="cs-form" id="contact-form" name="Contact Form" method="POST" action="https://formspree.io/f/xovqbnzp">
             <div class="cs-content">
             <h4 class="subtitle-text">Get in Touch</h4>
             <h1 class="h1-text" ><span class="highlight">Contact</span> Me</h1>
@@ -159,3 +159,32 @@ $color = "#1a1a1a";
         </div>
     </div>
 </section>
+<script>
+    const form = document.getElementById('contact-form');
+
+    form.addEventListener('submit', async (event) => {
+        event.preventDefault(); // Prevent default form submission
+        
+        const formData = new FormData(form);
+        const formObject = Object.fromEntries(formData.entries());
+        
+        try {
+            const response = await fetch(form.action, {
+                method: form.method,
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(formObject),
+            });
+
+            if (response.ok) {
+                // Redirect to your Thank You page on success
+                window.location.href = 'https://taystan.design/thankyou';
+            } else {
+                // Handle errors here (e.g., show an error message)
+                alert('There was an error submitting the form. Please try again.');
+            }
+        } catch (error) {
+            console.error('Error:', error);
+            alert('There was an error submitting the form. Please try again.');
+        }
+    });
+</script>
