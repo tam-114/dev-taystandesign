@@ -1,12 +1,11 @@
 <?php
 $color = "#1a1a1a";
-$siteKey = "6LfJvZIqAAAAAKxOtCB0k4bH_2oz23R8f9gomnUH";
 ?>
 
 <section id="contact-1333">
     <div class="cs-container" data-aos="fade-up"  data-aos-duration="1500">
         <!--Form-->
-        <form class="cs-form" id="contact-form" name="Contact Form" method="POST" action="process_form.php">
+        <form class="cs-form" id="contact-form" name="Contact Form" method="POST" action="https://formspree.io/f/xovqbnzp">
             <div class="cs-content">
             <h4 class="subtitle-text">Get in Touch</h4>
             <h1 class="h1-text" ><span class="highlight">Contact</span> Me</h1>
@@ -42,7 +41,7 @@ $siteKey = "6LfJvZIqAAAAAKxOtCB0k4bH_2oz23R8f9gomnUH";
             </label>
             <input type="text" name="honeypot" style="display:none;">
             <div class="d-flex justify-content-start">
-                <button type="submit" class="button-tertiary w-100 d-flex align-self-start g-recaptcha" data-sitekey="<?php echo $siteKey ?>" data-callback="onSubmit">Send me a message</button>
+                <button type="submit" class="button-tertiary w-100 d-flex align-self-start">Send me a message</button>
             </div>
 
         </form>
