@@ -471,7 +471,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                         <a href="/contact" class="button-primary">Get started</a>
                     </div>
                 </li>
-                <li class="cs-item cs-popular d-flex justify-content-between" data-aos="fade-up" data-aos-duration="1800">
+                <li class="cs-item cs-popular d-flex justify-content-between py-5" data-aos="fade-up" data-aos-duration="1800">
                     <div>
                         <span class="cs-package">Pro Package</span>
                         <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
