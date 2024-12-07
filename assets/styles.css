@@ -59,7 +59,11 @@ a.noLink {
 }
 
 /* =========== BACKGROUND =========== */
-
+.bg-1 {
+  background-image: url(images/green-triangle.svg), url(images/pink-square.svg);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+}
 
 
 /* =========== GENERAL ============ */
