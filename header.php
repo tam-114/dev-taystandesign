@@ -145,4 +145,4 @@
     </div>
 </header>
 
-<main style="padding-top: 20px;">
+<main style="padding-top: 7%;">
