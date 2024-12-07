@@ -60,18 +60,25 @@ a.noLink {
 
 /* =========== BACKGROUND =========== */
 /* .bg-1 {
-  background-image: url(images/green-triangle.svg), url(images/pink-square.png);
+  background-image: url(images/green-triangle.png), url(images/pink-square.png);
   background-position: 10%, 80% 90%;
   background-repeat: no-repeat, no-repeat;
-  background-size: 24px;
+  background-size: 34px;
 }
 
 .bg-2 {
   background-image: url(images/teal-square.svg), url(images/purple-square.png), url(images/yellow-square.svg);
   background-position: 10%, 89% 24%, 50% 98%;
   background-repeat: no-repeat, no-repeat;
-  background-size: 24px;
+  background-size: 34px;
 } */
+
+.bg-3 {
+  background-image: url(images/red-square.svg), url(images/pink-square.png), url(images/yellow-square.svg);
+  background-position: 10%, 89% 24%, 50% 98%;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 34px;
+}
 
 /* =========== GENERAL ============ */
 .btn {

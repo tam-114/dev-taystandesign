@@ -93,7 +93,7 @@
 </section>
 
 <!-- Why Choose -->
-<section class="section-padding">
+<section class="section-padding bg-3">
     <div class="container">
         <div class="row row-cols-lg-2 flex-column-reverse flex-lg-row justify-content-center align-items-center align-items-lg-start">
             <div class="col">
