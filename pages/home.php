@@ -49,7 +49,7 @@
     </div>
 </section>
 
-<section class="section-padding">
+<section class="section-padding bg-2">
     <div class="container">
         <div class="row row-cols-lg-2 flex-column flex-lg-row justify-content-center align-items-center align-items-lg-start">
         <div class="col d-flex justify-content-center align-items-center pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1800">

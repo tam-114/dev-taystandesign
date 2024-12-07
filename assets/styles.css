@@ -66,6 +66,12 @@ a.noLink {
   background-size: 24px;
 }
 
+.bg-2 {
+  background-image: url(images/teal-square.svg), url(images/purple-square.svg), url(images/yellow-square.svg);
+  background-position: 10%, 80% 90%, 50% 70%;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 24px;
+}
 
 /* =========== GENERAL ============ */
 .btn {
