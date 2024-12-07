@@ -34,7 +34,7 @@
     </script> -->
 </head>
 <body>
-<main style="padding-top: 20px;">
+
 <!-- Navbar --->
 <!-- <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
@@ -144,4 +144,5 @@
         </button> -->
     </div>
 </header>
-                                
+
+<main style="padding-top: 20px;">
