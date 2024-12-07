@@ -1594,7 +1594,7 @@ ul {
       /* 32px - 40px top *
               /* 16px - 32px left & right */
       /* padding: clamp(2rem, 2vw, 2.5rem) clamp(1rem, 1.5vw, 2rem); */
-      padding: clamp(1rem, 2vw, 1rem) clamp(0.5rem, 1.5vw, 1.8rem);
+      padding: clamp(3rem, 6vw, 4rem) clamp(1rem, 1.5vw, 2rem);
       background-color: #FFFFFF;
       /* prevents padding and border from affecting height and width */
       box-sizing: border-box;
