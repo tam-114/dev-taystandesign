@@ -59,6 +59,12 @@ a.noLink {
 }
 
 /* =========== BACKGROUND =========== */
+.bg-1 {
+  background-image: url(images/dot-grid.webp);
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
 /* .bg-1 {
   background-image: url(images/green-triangle.png), url(images/pink-square.png);
   background-position: 10%, 80% 90%;
