@@ -60,7 +60,7 @@ $projects = $result ? $result->fetch_all(MYSQLI_ASSOC) : [];
         </ol>
         </nav> -->
     </div>
-</section>   
+  
 <?php
 // Sort projects by date in descending order (most recent first)
 usort($projects, function ($a, $b) {
@@ -109,35 +109,8 @@ foreach ($projects as $index => $project) {
             <?php endif; ?>
         </div>
     </div>
-
+</section> 
 <?php
 }
 ?>
-
-<!-- < ?php
-foreach ($projects as $project) {
-    $image = $project['image'] ? $project['image'] : 'default-image.jpg';
-    ?>
-
-    <div class='container project'>
-        <div class="row row-cols-lg-2 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center projects-card">
-            <div class="col">
-                <img src="< ?php echo './assets/images/' . $image ?>" alt="< ?php echo $project['title']; ?>">
-            </div>
-            <div class="col">
-                <h2>< ?php echo $project['title']; ?></h2>
-                <p>      
-                    < ?php 
-                        $date = new DateTime($project['date']); 
-                        echo $date->format('M d, Y');
-                    ?>
-                </p>
-                <p>< ?php echo htmlspecialchars_decode($project['description']); ?></p>
-            </div>
-        </div>
-    </div>
-< ?php
-}
-?> -->
-
 
