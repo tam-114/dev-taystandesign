@@ -42,24 +42,25 @@ if ($stmt) {
 $projects = $result ? $result->fetch_all(MYSQLI_ASSOC) : [];
 ?>
 
-<div class="container pb-0">
-    <div class="d-flex align-items-center flex-column pb-3" data-aos="fade-up" data-aos-duration="1500">
-            <div class="text-center">
-                <h4 class="subtitle-text">Client Projects</h4>
-                <h1 class="h1-text">Turning <span class="highlight">Ideas</span> Into Interactive Experiences</h1>
+<section class="section-padding">
+    <div class="container pb-0">
+        <div class="d-flex align-items-center flex-column pb-3" data-aos="fade-up" data-aos-duration="1500">
+                <div class="text-center">
+                    <h4 class="subtitle-text">Client Projects</h4>
+                    <h1 class="h1-text">Turning <span class="highlight">Ideas</span> Into Interactive Experiences</h1>
+                </div>
+                <div class="d-flex justify-content-center align-items-center">
+                    <p class="p-text text-center">Explore my portfolio to see how creativity meets functionality. Each project is crafted with care to deliver results, inspire users, and bring visions to reality.</p>
+                </div>
             </div>
-            <div class="d-flex justify-content-center align-items-center">
-                <p class="p-text text-center">Explore my portfolio to see how creativity meets functionality. Each project is crafted with care to deliver results, inspire users, and bring visions to reality.</p>
-            </div>
-        </div>
-    <!-- <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>">Home</a></li>
-        <li class="breadcrumb-item active" aria-current="page">Projects</li>
-    </ol>
-    </nav> -->
-</div>
-        
+        <!-- <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Projects</li>
+        </ol>
+        </nav> -->
+    </div>
+</section>   
 <?php
 // Sort projects by date in descending order (most recent first)
 usort($projects, function ($a, $b) {
@@ -72,7 +73,7 @@ foreach ($projects as $index => $project) {
     // Determine the order: odd index starts with image, even index starts with text
     $isImageFirst = $index % 2 === 0;
     ?>
-<section class="section-padding">
+
     <div class='container project'>
         <div class="row row-cols-lg-2 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center projects-card" data-aos="fade-up" data-aos-duration="1500">
             <?php if ($isImageFirst): ?>
@@ -108,7 +109,7 @@ foreach ($projects as $index => $project) {
             <?php endif; ?>
         </div>
     </div>
-</section>
+
 <?php
 }
 ?>
