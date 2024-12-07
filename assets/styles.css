@@ -31,6 +31,11 @@ body {
     margin: 0;
     padding: 0;
     overflow-x: hidden!important;
+
+    background-image: url(images/dot-grid.svg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: contain;
 }
 
 html {
@@ -59,7 +64,7 @@ a.noLink {
 }
 
 /* =========== BACKGROUND =========== */
-.bg-1 {
+.bg-dots {
   background-image: url(images/dot-grid.svg);
   background-position: center;
   background-repeat: repeat;
