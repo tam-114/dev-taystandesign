@@ -72,7 +72,7 @@ foreach ($projects as $index => $project) {
     // Determine the order: odd index starts with image, even index starts with text
     $isImageFirst = $index % 2 === 0;
     ?>
-
+<section class="section-padding">
     <div class='container project'>
         <div class="row row-cols-lg-2 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center projects-card" data-aos="fade-up" data-aos-duration="1500">
             <?php if ($isImageFirst): ?>
@@ -108,6 +108,7 @@ foreach ($projects as $index => $project) {
             <?php endif; ?>
         </div>
     </div>
+</section>
 <?php
 }
 ?>
