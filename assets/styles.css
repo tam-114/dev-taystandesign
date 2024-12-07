@@ -225,12 +225,13 @@ a.noLink {
   ul.navbar-nav {
     text-align: center;
   }
-  
+
   .navbar-links > a.button-tertiary {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 50%;
+    margin: 0 auto;
   }
 }
 
