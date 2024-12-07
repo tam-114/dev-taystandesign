@@ -745,7 +745,7 @@ a.noLink {
     text-decoration: none;
     width: 2rem;
     height: 2rem;
-    background-color: #3f3f3f;
+    background-color: var(--dark-red);
     border-radius: 50%;
     display: flex;
     justify-content: center;
