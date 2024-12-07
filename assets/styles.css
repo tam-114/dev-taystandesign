@@ -1267,7 +1267,7 @@ button.accordion-button {
     color: var(--dark-gray);
     border-radius: 15px;
     padding: 15px 30px;
-    margin: 10px;
+    margin: 20px 10px;
 }
 
 .tag {
