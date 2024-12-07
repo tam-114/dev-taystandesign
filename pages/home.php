@@ -1,5 +1,5 @@
 <main>
-<section class="section-padding pt-0 bg-1">
+<section class="section-padding pt-0">
     <div class="container">
         <div class="row row-cols-lg-2 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center">
             <div class="col d-flex justify-content-center align-items-start flex-column pt-5 pt-lg-0 pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1500">
