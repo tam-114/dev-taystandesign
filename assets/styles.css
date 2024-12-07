@@ -177,6 +177,16 @@ a.noLink {
     background-color: var(--pink-bg);
 }
 
+.body-pt {
+  padding-top: 40%;
+}
+
+@media (min-width: 992px) {
+  .body-pt {
+    padding-top: 7%;
+  }
+}
+
 .logo {
     width: auto;
     height: 45px;
