@@ -59,7 +59,7 @@ a.noLink {
 }
 
 /* =========== BACKGROUND =========== */
-.bg-1 {
+/* .bg-1 {
   background-image: url(images/green-triangle.png), url(images/pink-square.png);
   background-position: 10%, 80% 90%;
   background-repeat: no-repeat, no-repeat;
@@ -78,7 +78,7 @@ a.noLink {
   background-position: 10%, 89% 24%, 50% 98%;
   background-repeat: no-repeat, no-repeat;
   background-size: 34px;
-}
+} */
 
 /* =========== GENERAL ============ */
 .btn {
