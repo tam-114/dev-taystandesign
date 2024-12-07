@@ -98,22 +98,22 @@
             <div class="cs-ul-wrapper">
                 <ul id="cs-expanded" class="cs-ul" aria-expanded="false">
                     <li class="cs-li">
-                        <a href="/" class="cs-li-link cs-active">
+                        <a href="/" class="cs-li-link <?php echo (isset($_GET['path']) && $_GET['path'] === '') ? 'cs-active' : ''; ?>">
                             Home
                         </a>
                     </li>
                     <li class="cs-li">
-                        <a href="/projects" class="cs-li-link">
+                        <a href="/projects" class="cs-li-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'projects') ? 'cs-active' : ''; ?>">
                             Projects
                         </a>
                     </li>
                     <li class="cs-li">
-                        <a href="/testimonials" class="cs-li-link">
+                        <a href="/testimonials" class="cs-li-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'testimonials') ? 'cs-active' : ''; ?>">
                             Testimonials
                         </a>
                     </li>
                     <li class="cs-li">
-                        <a href="/contact" class="cs-li-link">
+                        <a href="/contact" class="cs-li-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'contact') ? 'cs-active' : ''; ?>">
                             Contact
                         </a>
                     </li>
