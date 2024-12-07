@@ -74,7 +74,7 @@ a.noLink {
 } */
 
 .bg-3 {
-  background-image: url(images/red-square.svg), url(images/pink-square.png), url(images/yellow-square.svg);
+  background-image: url(images/red-square.png), url(images/pink-square.png), url(images/yellow-square.svg);
   background-position: 10%, 89% 24%, 50% 98%;
   background-repeat: no-repeat, no-repeat;
   background-size: 34px;
