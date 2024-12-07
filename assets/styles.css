@@ -726,6 +726,9 @@ a.noLink {
     gap: 0.5rem;
     transition: opacity 0.3s, color 0.3s;
   }
+  #cs-navigation .cs-phone:hover {
+    color: var(--primary);
+  }
   #cs-navigation .cs-phone-icon {
     width: 1.5rem;
     height: auto;
