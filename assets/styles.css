@@ -63,7 +63,7 @@ a.noLink {
   background-image: url(images/dot-grid.svg);
   background-position: center;
   background-repeat: repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 /* .bg-1 {
