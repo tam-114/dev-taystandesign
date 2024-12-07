@@ -109,8 +109,9 @@ foreach ($projects as $index => $project) {
             <?php endif; ?>
         </div>
     </div>
-</section> 
+
 <?php
 }
 ?>
 
+</section>
