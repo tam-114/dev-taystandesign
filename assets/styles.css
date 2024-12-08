@@ -1042,7 +1042,7 @@ a.noLink {
 @media screen and (min-width: 992px) {
     .about-img {
         max-width: 480px!important;
-        width: 480px;
+        /* width: 480px; */
         height: auto;
     }
 }
