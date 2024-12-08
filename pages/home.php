@@ -87,7 +87,7 @@
                         <p class="p-text">Integrate features that drive donations, inquiries, or purchases seamlessly</p>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center align-items-center">
+                <div class="d-flex justify-content-center align-items-center" data-aos="fade-up"  data-aos-duration="1500">
                     <a href="/contact" class="button-primary">Contact Me</a>
                 </div>
             </div>
@@ -140,7 +140,7 @@
                         <p class="p-text">Whether you need a refresh of a full redesign, I'll find solutions that fit your timeline and budget</p>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center align-items-center">
+                <div class="d-flex justify-content-center align-items-center" data-aos="fade-up"  data-aos-duration="1500">
                     <a href="/contact" class="button-primary">Request a Quote</a>
                 </div>
             </div>
