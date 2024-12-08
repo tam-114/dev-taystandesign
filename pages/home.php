@@ -87,6 +87,9 @@
                         <p class="p-text">Integrate features that drive donations, inquiries, or purchases seamlessly</p>
                     </div>
                 </div>
+                <div class="d-flex justify-content-center align-items-center">
+                    <a href="/contact" class="button-primary">Contact Me</a>
+                </div>
             </div>
         </div>
     </div>
@@ -136,6 +139,9 @@
                         <h3 class="h3-text pb-0">Resourceful and Adaptable</h3>
                         <p class="p-text">Whether you need a refresh of a full redesign, I'll find solutions that fit your timeline and budget</p>
                     </div>
+                </div>
+                <div class="d-flex justify-content-center align-items-center">
+                    <a href="/contact" class="button-primary">Request a Quote</a>
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center align-self-stretch pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1800">
