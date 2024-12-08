@@ -168,7 +168,7 @@
             </div>
             <div class="col d-flex justify-content-center align-items-center flex-column" data-aos="fade-up"  data-aos-duration="1500">
                  <span class="circle-number">04</span>
-                 <p class="p-text text-center pt-4"> <strong>Launch & Support:</strong>  I'll launch your project seamlessly and provide support for any updates or questions.</p>
+                 <p class="p-text text-center pt-4"> <strong>Launch & Support:</strong>  I'll launch your project seamlessly and provide support for any updates or questions</p>
             </div>
         </div>
         <div class="d-flex justify-content-center align-items-center pt-2" data-aos="fade-up"  data-aos-duration="1500">
