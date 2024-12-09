@@ -12,11 +12,11 @@ $color = "#1a1a1a";
             </div>
             <label class="cs-label">
                 First Name
-                <input class="cs-input" required type="text" id="fname" name="fname" placeholder="First Name" autocomplete>
+                <input class="cs-input" required type="text" id="fname" name="firstName" placeholder="First Name" autocomplete>
             </label>
             <label class="cs-label">
                 Last Name
-                <input class="cs-input" required type="text" id="lname" name="lname" placeholder="Last Name" autocomplete>
+                <input class="cs-input" required type="text" id="lname" name="lastName" placeholder="Last Name" autocomplete>
             </label>
             <label class="cs-label cs-email">
                 Email
@@ -27,6 +27,17 @@ $color = "#1a1a1a";
                 <input class="cs-input" required type="tel" id="phone" name="phone" placeholder="Phone" autocomplete>
             </label>
             <label class="cs-label">
+                Reason for contact:
+                <select class="cs-input" id="subject" name="subject" required>
+                    <option value="Request a Quote">Request a Quote</option>
+                    <option value="Website Audit">Website Audit</option>
+                    <option value="General Inquiry">General Inquiry</option>
+                    <option value="Starter Package">Starter Package</option>
+                    <option value="Pro Package">Pro Package</option>
+                    <option value="Custom Package">Custom Package</option>
+                </select>
+            </label>
+            <!-- <label class="cs-label">
                 Select a Package:
                 <select class="cs-input" id="subject" name="subject" required>
                     <option value="General Inquiry">General Inquiry</option>
@@ -34,7 +45,7 @@ $color = "#1a1a1a";
                     <option value="Pro Package">Pro Package</option>
                     <option value="Custom Package">Custom Package</option>
                 </select>
-            </label>
+            </label> -->
             <label class="cs-label">
                 Message
                 <textarea class="cs-input cs-textarea" required name="message" id="message" placeholder="Write message..."></textarea>
