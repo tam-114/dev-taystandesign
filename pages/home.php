@@ -75,7 +75,7 @@
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Boost Engagement</h3>
-                        <p class="p-text">Integrate features that drive donations, inquiries, or purchases seamlessly</p>
+                        <p class="p-text">Integrate features that drive donations, inquiries, or purchases</p>
                     </div>
                 </div>
                 <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
