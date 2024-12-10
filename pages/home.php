@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="d-flex justify-content-center align-items-center pt-3" data-aos="fade-up"  data-aos-duration="1500">
-                    <a href="/contact" class="button-primary">Contact Me</a>
+                    <a href="/contact" class="button-primary">Connect with Me</a>
                 </div>
             </div>
         </div>
