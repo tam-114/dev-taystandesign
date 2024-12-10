@@ -84,7 +84,7 @@
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Stay Budget-Friendly</h3>
-                        <p class="p-text">Integrate features that drive more donations, inquiries, and purchases</p>
+                        <p class="p-text">High-quality designs and development tailored to fit your budget</p>
                     </div>
                 </div>
                 <div class="d-flex justify-content-center align-items-center pt-3" data-aos="fade-up"  data-aos-duration="1500">
