@@ -50,9 +50,9 @@ $color = "#1a1a1a";
                 Message
                 <textarea class="cs-input cs-textarea" required name="message" id="message" placeholder="Write message..."></textarea>
             </label>
-            <div class="d-flex justify-content-center align-items-start flex-row">
+            <div class="">
                 <input type="checkbox" name="privacy" id="privacy">
-                <label class="cs-label d-inline-flex flex-row">
+                <label class="cs-label d-block">
                     I agree to have my information collected for contacting purposes in accordance with <a href="/privacy">Privacy Policy</a> and <a href="/terms">Terms and Conditions</a>.
                 </label>
             </div>
