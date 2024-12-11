@@ -205,7 +205,7 @@
 <section class="section-padding">
     <div class="container testimonials pt-4 mt-4">
         <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Testimonials</h4>
-        <h1 class="text-center" data-aos="fade-up"  data-aos-duration="1500">Some <span class="highlight">Love</span> From My Clients <i class="fa-solid fa-heart fa-xs"></i></h1>
+        <h1 class="text-center" data-aos="fade-up"  data-aos-duration="1500">Some <span class="highlight">Feedback</span> From My Clients <i class="fa-solid fa-heart fa-xs"></i></h1>
         <div class="row row-cols-lg-3 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center testimonials-quotes">
             <div class="col quote-card" data-aos="fade-up"  data-aos-duration="1500">
                 <p class="p-text">“ It was an absolute pleasure working with Taystan Design, LLC. Ms. Taylor, the owner, is very knowledgeable and professional… ”</p>
