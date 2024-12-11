@@ -54,9 +54,9 @@
           </div>
         </div>
         <div class="footer_copyright justify-content-between flex-column flex-lg-row">
-          <div class="d-flex flex-row">
-            <p class="footer_copyright-p"><a href="/privacy">Privacy Policy</a></p>
-            <p class="footer_copyright-p"><a href="/terms">Terms &amp; Conditions</a></p>
+          <div class="d-flex flex-row gap-2">
+            <p class="footer_copyright-p"><a href="/privacy" class="noLink">Privacy Policy</a></p>
+            <p class="footer_copyright-p"><a href="/terms" class="noLink">Terms &amp; Conditions</a></p>
           </div>
           
           <div>
