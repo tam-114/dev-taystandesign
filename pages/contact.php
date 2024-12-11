@@ -50,6 +50,13 @@ $color = "#1a1a1a";
                 Message
                 <textarea class="cs-input cs-textarea" required name="message" id="message" placeholder="Write message..."></textarea>
             </label>
+            <div>
+                <input type="checkbox" name="privacy" id="privacy">
+                <label class="cs-label">
+                    I agree to have my information collected for contacting purposes in accordance with <a href="/privacy" class="noLink">Privacy Policy</a> and Terms and Conditions.
+                </label>
+            </div>
+
             <input type="text" name="_gotcha" class="d-none"/>
             <div class="d-flex justify-content-start">
                 <button type="submit" class="button-tertiary w-100 d-flex align-self-start">Send me a message</button>

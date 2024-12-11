@@ -13,6 +13,8 @@ $routes = [
     'projects' => 'pages/projects.php',
     'thankyou' => 'pages/thankyou.php',
     'pricing' => 'pages/pricing.php',
+    'privacy' => 'pages/privacy.php',
+    'terms' => 'pages/terms.php',
 ];
 
 // Include the header file
