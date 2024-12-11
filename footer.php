@@ -15,7 +15,7 @@
         <div class="row flex-lg-row flex-column">
           <div class="col-lg-6 col-12">
             <h3 class="footer_h3 uppercase">Taystan.Design</h3>
-            <p class="footer_p">Creating websites for businesses and individuals that are accessible, inclusive, and diverse.<br><br> Let's work together to make your online presence stand out!</p>
+            <p class="footer_p">Creating user-friendly websites with affordable solutions for growing businesses and impactful organizations</p>
             <img src="./assets/images/black_owned_icon.png" alt="" class="img-fluid" width="24px" height="24px">
           </div>
 
