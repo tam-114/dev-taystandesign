@@ -53,8 +53,8 @@
             <p class="footer_p">Sunday: OFF</p>
           </div>
         </div>
-        <div class="footer_copyright justify-content-between flex-column flex-lg-row">
-          <div class="d-flex flex-row gap-2">
+        <div class="footer_copyright justify-content-between flex-column flex-lg-row pt-4">
+          <div class="d-flex flex-row gap-4">
             <p class="footer_copyright-p"><a href="/privacy" class="noLink">Privacy Policy</a></p>
             <p class="footer_copyright-p"><a href="/terms" class="noLink">Terms &amp; Conditions</a></p>
           </div>
