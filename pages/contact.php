@@ -53,7 +53,7 @@ $color = "#1a1a1a";
             <div>
                 <input type="checkbox" name="privacy" id="privacy">
                 <label class="cs-label">
-                    I agree to have my information collected for contacting purposes in accordance with <a href="/privacy" class="noLink">Privacy Policy</a> and Terms and Conditions.
+                    I agree to have my information collected for contacting purposes in accordance with <a href="/privacy">Privacy Policy</a> and <a href="/terms">Terms and Conditions</a>.
                 </label>
             </div>
 
