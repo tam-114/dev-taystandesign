@@ -53,10 +53,16 @@
             <p class="footer_p">Sunday: OFF</p>
           </div>
         </div>
-        <div class="footer_copyright">
-          <p class="footer_copyright-p">Made with <i class="fa-solid fa-heart fa-xs px-1"></i> by Taystan.Design |  All Rights Reserved <?php echo date('Y')?></p>
+        <div class="footer_copyright justify-content-between flex-column flex-lg-row">
+          <div class="d-flex flex-row">
+            <p class="footer_copyright-p"><a href="/privacy">Privacy Policy</a></p>
+            <p class="footer_copyright-p"><a href="/terms">Terms &amp; Conditions</a></p>
+          </div>
+          
+          <div>
+            <p class="footer_copyright-p">Made with <i class="fa-solid fa-heart fa-xs px-1"></i> by Taystan.Design |  All Rights Reserved <?php echo date('Y')?></p>
+          </div>
         </div>
-       
     </div>
 </footer>
 </main>
