@@ -5,8 +5,8 @@
             <img src="/assets/images/ksgf_old.png" alt="" class="img-fluid">
             <img src="/assets/images/ksgf_new.png" alt="" class="img-fluid">
         </div>
-        <div class="col-lg-6">
-            <div class="position-sticky">
+        <div class="col-lg-6 d-flex align-items-start">
+            <div class="position-sticky top-0">
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi non repellendus neque amet quam reiciendis nobis odit veritatis optio est dolorum sint magnam, consectetur repellat praesentium soluta molestiae molestias. Provident!</p>
             </div>
         </div>
