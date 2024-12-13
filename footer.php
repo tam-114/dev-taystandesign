@@ -16,7 +16,7 @@
           <div class="col-lg-6 col-12">
             <h3 class="footer_h3 uppercase">Taystan.Design</h3>
             <p class="footer_p">Creating user-friendly websites with affordable solutions for growing businesses and impactful organizations</p>
-            <img src="./assets/images/black_owned_icon.png" alt="" class="img-fluid" width="24px" height="24px">
+            <img src="/assets/images/black_owned_icon.png" alt="" class="img-fluid" width="24px" height="24px">
           </div>
 
           <div class="col-lg-3 col-12 py-lg-0 py-4">
