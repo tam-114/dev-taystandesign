@@ -15,6 +15,7 @@ $routes = [
     'pricing' => 'pages/pricing.php',
     'privacy' => 'pages/privacy.php',
     'terms' => 'pages/terms.php',
+    'ksgf' => 'pages/projects/ksgf.php',
 ];
 
 // Include the header file
