@@ -5,7 +5,7 @@
             <img src="/assets/images/ksgf_old.png" alt="" class="img-fluid">
             <img src="/assets/images/ksgf_new.png" alt="" class="img-fluid">
         </div>
-        <div class="col-12 d-flex">
+        <div class="col-12 d-flex d-lg-none">
             <h4>Before</h4>
             <img src="/assets/images/ksgf_old-top1.png" alt="" class="img-fluid">
             <h4>After</h4>
