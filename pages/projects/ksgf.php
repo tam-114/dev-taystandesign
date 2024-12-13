@@ -1,9 +1,15 @@
 <main>
 <div class="container" style="overflow: visible;">
-    <div class="row flex-column flex-lg-row">
-        <div class="col-lg-6">
+    <div class="row flex-lg-row d-lg-block">
+        <div class="col-lg-6 d-lg-flex d-none">
             <img src="/assets/images/ksgf_old.png" alt="" class="img-fluid">
             <img src="/assets/images/ksgf_new.png" alt="" class="img-fluid">
+        </div>
+        <div class="col-12 d-flex">
+            <h4>Before</h4>
+            <img src="/assets/images/ksgf_old-top1.png" alt="" class="img-fluid">
+            <h4>After</h4>
+            <img src="/assets/images/ksgf_new-top1.png" alt="" class="img-fluid">
         </div>
         <div class="col-lg-6">
             <div class="position-sticky top-0">
@@ -117,4 +123,16 @@
             </div>
         </div>
     </div>
+
+    <!-- <div class="row row-cols-1 flex-column">
+        <div class="col">
+            <h4>Before</h4>
+            <img src="/assets/images/ksgf_old-top1.png" alt="" class="img-fluid">
+            <h4>After</h4>
+            <img src="/assets/images/ksgf_new-top1.png" alt="" class="img-fluid">
+        </div>
+        <div class="col">
+
+        </div>
+    </div> -->
 </main>
