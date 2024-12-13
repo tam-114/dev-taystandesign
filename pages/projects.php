@@ -105,6 +105,7 @@ foreach ($projects as $index => $project) {
                         ?>
                     </p>
                     <p><?php echo htmlspecialchars_decode($project['description']); ?></p>
+                    <a href="<?php echo 'projects/' . $project['path']; ?>" class="button-primary">View project</a>
                 </div>
                 <div class="col">
                     <img src="<?php echo './assets/images/' . $image ?>" alt="<?php echo $project['title']; ?>" class="img-fluid">
