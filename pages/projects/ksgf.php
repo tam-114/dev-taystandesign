@@ -1,7 +1,7 @@
 <main>
 <div class="container" style="overflow: visible;">
     <div class="row flex-lg-row d-lg-block">
-        <div class="col-lg-6 d-lg-flex d-none">
+        <div class="col-lg-6 flex-column d-lg-flex d-none">
             <img src="/assets/images/ksgf_old.png" alt="" class="img-fluid">
             <img src="/assets/images/ksgf_new.png" alt="" class="img-fluid">
         </div>
