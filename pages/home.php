@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="d-flex justify-content-center align-items-center pt-3" data-aos="fade-up"  data-aos-duration="1500">
-                    <a href="/contact" class="button-primary">Connect with Me</a>
+                    <a href="/contact" class="button-primary">Connect with me</a>
                 </div>
             </div>
         </div>
@@ -141,7 +141,7 @@
                     </div>
                 </div>
                 <div class="d-flex justify-content-center align-items-center pt-3" data-aos="fade-up"  data-aos-duration="1500">
-                    <a href="/contact" class="button-primary">Request a Quote</a>
+                    <a href="/contact" class="button-primary">Request a quote</a>
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center align-self-stretch pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1800">

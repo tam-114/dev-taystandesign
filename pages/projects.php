@@ -69,6 +69,8 @@ usort($projects, function ($a, $b) {
 
 foreach ($projects as $index => $project) { 
     $image = $project['image'] ? $project['image'] : 'default-image.jpg';
+    $path = isset($project['path']) ? $project['path'] : '';
+    $url = BASE_URL . $path;
 
     // Determine the order: odd index starts with image, even index starts with text
     $isImageFirst = $index % 2 === 0;
@@ -90,6 +92,7 @@ foreach ($projects as $index => $project) {
                         ?>
                     </p>
                     <p><?php echo htmlspecialchars_decode($project['description']); ?></p>
+                    <a href="<?php echo $project['path']; ?>" class="button-primary">View project</a>
                 </div>
             <?php else: ?>
                 <div class="col">
