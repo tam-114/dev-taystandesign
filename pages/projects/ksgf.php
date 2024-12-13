@@ -117,7 +117,8 @@
             </div>
         </div>
     </div>
-
+</div>
+<div class="container m-2">
     <div class="row row-cols-1 flex-column d-lg-none">
         <div class="col">
             <h4>Before</h4>
