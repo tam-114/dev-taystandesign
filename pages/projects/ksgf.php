@@ -121,9 +121,9 @@
 <div class="container m-2">
     <div class="row row-cols-1 flex-column d-lg-none">
         <div class="col d-flex justify-content-center align-items-center">
-            <h3>Before</h3>
+            <h3 class="pb-2">Before</h3>
             <img src="/assets/images/ksgf_old-top1.png" alt="" class="img-fluid">
-            <h3>After</h3>
+            <h3 class="pb-2">After</h3>
             <img src="/assets/images/ksgf_new-top1.png" alt="" class="img-fluid">
         </div>
         <div class="col">
