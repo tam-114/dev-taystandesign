@@ -1,4 +1,15 @@
 <main>
+<div class="container">
+    <h1 class="h1-title">Kids Sew Genius Foundation</h1>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+            <li class="breadcrumb-item"><a href="/projects">Projects</a></li>
+            <li class="breadcrumb-item active" aria-current="page">KSGF</li>
+        </ol>
+    </nav>
+
+</div>
 <div class="container px-2" style="overflow: visible;">
     <div class="row flex-lg-row d-lg-flex d-none">
         <div class="col-lg-6 flex-column ">
