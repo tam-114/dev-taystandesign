@@ -1,5 +1,5 @@
 <main>
-<div class="container" style="overflow: visible;">
+<div class="container px-2" style="overflow: visible;">
     <div class="row flex-lg-row d-lg-flex d-none">
         <div class="col-lg-6 flex-column ">
             <img src="/assets/images/ksgf_old.png" alt="" class="img-fluid">
