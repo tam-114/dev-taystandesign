@@ -17,6 +17,7 @@ $routes = [
     'terms' => 'pages/terms.php',
     'projects/ksgf' => 'pages/projects/ksgf.php',
     'projects/btc' => 'pages/projects/btc.php',
+    'projects/ptr' => 'pages/projects/ptr.php',
 ];
 
 // Include the header file
