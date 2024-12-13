@@ -6,7 +6,7 @@
             <img src="/assets/images/ksgf_new.png" alt="" class="img-fluid">
         </div>
         <div class="col-lg-6">
-            <div class="position-sticky top-0" style="height: 100vh;">
+            <div class="">
                 <div class="">
                     <h3 class=""><strong>Project Goals</strong></h3>
                     <p class="">The goal was to transform the site from a static, image-based design into a functional, user-friendly website that:</p>
