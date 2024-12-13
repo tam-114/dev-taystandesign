@@ -2,8 +2,8 @@
 <div class="container">
     <div class="row flex-column flex-lg-row">
         <div class="col-lg-6">
-            <img src="/images/ksgf_old.png" alt="">
-            <img src="/images/ksgf_new.png" alt="">
+            <img src="/assets/images/ksgf_old.png" alt="">
+            <img src="/assets/images/ksgf_new.png" alt="">
         </div>
         <div class="col-lg-6">
             <div class="position-sticky">
