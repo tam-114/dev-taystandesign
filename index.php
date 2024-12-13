@@ -16,6 +16,7 @@ $routes = [
     'privacy' => 'pages/privacy.php',
     'terms' => 'pages/terms.php',
     'projects/ksgf' => 'pages/projects/ksgf.php',
+    'projects/btc' => 'pages/projects/btc.php',
 ];
 
 // Include the header file
