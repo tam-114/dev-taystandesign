@@ -70,7 +70,7 @@ usort($projects, function ($a, $b) {
 foreach ($projects as $index => $project) { 
     $image = $project['image'] ? $project['image'] : 'default-image.jpg';
     $path = isset($project['path']) ? $project['path'] : '';
-    $url = BASE_URL . $path;
+    $url = BASE_URL .'projects/' . $path;
 
     // Determine the order: odd index starts with image, even index starts with text
     $isImageFirst = $index % 2 === 0;
