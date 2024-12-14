@@ -10,7 +10,7 @@
                  <p class="p-text py-4 py-lg-2">Creating user-friendly websites with <span class="highlight">affordable</span> solutions for growing businesses and <span class="highlight">impactful</span> organizations</p>
 
                 <div class="flex-row">
-                    <a href="#explore" class="button-tertiary">Discover more</a>
+                    <a href="#explore" class="button-primary">Discover more</a>
                     <a href="/projects" class="btn-secondary">View projects <i class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
@@ -368,7 +368,7 @@
                             <h1>$900</h1>
                             <h2>Pro Package</h2>
                             <p>Best for 4-6 pages</p>
-                            <a href="< ?php echo BASE_URL; ?>contact" class="button-tertiary">Get started</a>
+                            <a href="< ?php echo BASE_URL; ?>contact" class="button-primary">Get started</a>
                         </div>
 
                         <ul class="packages">
@@ -508,7 +508,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                         </div>
                     </div>
                     <div>
-                        <a href="/contact" class="button-tertiary">Get started</a>
+                        <a href="/contact" class="button-primary">Get started</a>
                     </div>
                 </li>
                 <li class="cs-item d-flex justify-content-between" data-aos="fade-up" data-aos-duration="1500">
