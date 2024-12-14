@@ -5,7 +5,7 @@
             <div class="col d-flex justify-content-center align-items-start flex-column pt-5 pt-lg-0 pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1500">
                 <svg class="flipping-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg>
                 </svg>
-                <h1 class="hero-h1-text" >Freelance Web Designer/Developer</h1>
+                <h1 class="hero-h1-text" >Freelance Web Designer & Developer</h1>
                 <!-- <p class="p-text py-lg-4">Creating websites with affordable solutions for growing businesses and impactful organizations</p> -->
                  <p class="p-text py-4 py-lg-2">Creating user-friendly websites with <span class="highlight">affordable</span> solutions for growing businesses and <span class="highlight">impactful</span> organizations</p>
 
@@ -57,7 +57,7 @@
             </div>
             <div class="col">
                 <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">How I Help</h4>
-                <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">How Can Taystan Design <span class="highlight">Help</span> You?</h1>
+                <h2 class="h2-text" data-aos="fade-up"  data-aos-duration="1500">How Can Taystan Design <span class="highlight">Help</span> You?</h2>
                 <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">I provide affordable web solutions that deliver results. I'll create beautiful, functional, and engaging websites that:</p>
 
                 <div class="d-flex justify-content-center align-items-baseline flex-row gx-4 gap-4"  data-aos="fade-up" data-aos-duration="1500">
@@ -101,7 +101,7 @@
         <div class="row row-cols-lg-2 flex-column-reverse flex-lg-row justify-content-center align-items-center align-items-lg-start">
             <div class="col">
                 <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">About Me</h4>
-                <h1 class="h1-text" data-aos="fade-up"  data-aos-duration="1500">Why <span class="highlight">Choose</span> Taystan Design?</h1>
+                <h2 class="h2-text" data-aos="fade-up"  data-aos-duration="1500">Why <span class="highlight">Choose</span> Taystan Design?</h2>
                 <p class="p-text" data-aos="fade-up"  data-aos-duration="1500">Choose Taystan Design for a blend of creativity and technical expertise that brings your vision to reality. With a focus on user-friendly, visually stunning, and inclusive designs, I deliver solutions tailored to your unique needs</p>
 
                 <div class="d-flex align-items-baseline flex-row gap-4"  data-aos="fade-up" data-aos-duration="1500">
@@ -156,7 +156,7 @@
     <div class="container text-center">
         <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">My Work Process</h4>
         <div data-aos="fade-up"  data-aos-duration="1500">
-            <h1 class="h1-text">How this <span class="highlight">Works</span> : Step by Step</h1>
+            <h2 class="h2-text">How this <span class="highlight">Works</span> : Step by Step</h2>
             <p class="p-text">I believe great projects come from clear communication and collaboration. My process is simple and ensures we're on the same page every step of the way—from understanding your goals to bringing your vision to reality.</p>
         </div>
         <div class="row d-flex justify-content-center align-items-start flex-lg-row flex-column py-4 gap-4 gap-lg-5">
@@ -187,7 +187,7 @@
 <section class="bg-body-pink section-padding">
     <div class="container"> 
         <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Website Builders</h4>
-        <h1 class="h1-text text-center" style="font-size: 30px;" data-aos="fade-up"  data-aos-duration="1500">Experience with these <span class="highlight">CMS</span> platforms</h1>
+        <h2 class="h2-text text-center" style="font-size: 30px;" data-aos="fade-up"  data-aos-duration="1500">Experience with these <span class="highlight">CMS</span> platforms</h2>
         <div class="custom-carousel-container" data-aos="fade-up"  data-aos-duration="1500">
             <div class="custom-carousel justify-content-start justify-content-lg-center">
             <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;height:50px;">
@@ -205,7 +205,7 @@
 <section class="section-padding">
     <div class="container testimonials pt-4 mt-4">
         <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Testimonials</h4>
-        <h1 class="text-center" data-aos="fade-up"  data-aos-duration="1500">Some <span class="highlight">Feedback</span> From My Clients <i class="fa-solid fa-heart fa-xs"></i></h1>
+        <h2 class="h2-text text-center" data-aos="fade-up"  data-aos-duration="1500">Some <span class="highlight">Feedback</span> From My Clients <i class="fa-solid fa-heart fa-xs"></i></h2>
         <div class="row row-cols-lg-3 row-cols-1 flex-lg-row flex-column justify-content-center align-items-center testimonials-quotes">
             <div class="col quote-card" data-aos="fade-up"  data-aos-duration="1500">
                 <p class="p-text">“ It was an absolute pleasure working with Taystan Design, LLC. Ms. Taylor, the owner, is very knowledgeable and professional… ”</p>
@@ -272,7 +272,7 @@
     <div class="cs-container" data-aos="fade-up"  data-aos-duration="1500">
         <div class="cs-content">
             <h4 class="subtitle-text">The Process</h4>
-             <h1 class="h1-text">My Process from Start to Finish</h1>
+             <h2 class="h2-text">My Process from Start to Finish</h2>
             <p class="cs-text" style="font-size: 22px;">
             I believe great projects come from clear communication and collaboration. My process is simple and ensures we're on the same page every step of the way—from understanding your goals to bringing your vision to reality.
             </p>
@@ -313,8 +313,8 @@
         <div class="overlay">
             <div class="overlay-text">
                 <h4>Get in Touch</h4>
-                <h1>Ready to <span id="typewriter"></span></h1>
-                <h1>Request a <span class="highlight">FREE</span> Website Audit</h1>
+                <h2>Ready to <span id="typewriter"></span></h2>
+                <h2>Request a <span class="highlight">FREE</span> Website Audit</h2>
             </div>
             <div class="d-flex justify-content-center align-items-center pt-3">
                 <a href="/contact" class="button-secondary">Contact Me</a>
@@ -562,7 +562,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
             <div class="col-lg-5 col-12 " data-aos="fade-up" data-aos-duration="1500">
                 <h4 class="subtitle-text">FAQ</h4>
                 <div class="faq_intro" >
-                    <h1 class="h1-faq">Here are some frequently asked <span class="highlight">questions</span> </h1>
+                    <h2 class="h2-faq">Here are some frequently asked <span class="highlight">questions</span> </h2>
                     <p class="p-text py-2">Don't see an answer here that you're looking for? Feel free to reach out to learn more!</p>
                     <a href="/contact" class="btn btn-secondary p-0">Reach out to me <i class="fa-solid fa-arrow-right"></i></a>
                 </div>

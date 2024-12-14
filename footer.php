@@ -2,7 +2,7 @@
     <div class="container footer_content">
         <div class="row flex-lg-row flex-column">
             <div class="col-lg-7 col-12">
-                <h1 class="footer_h1 text-center text-lg-start py-3 py-lg-0">Let's Turn Your Ideas Into <span class="highlight">Reality</span>!</h1>
+                <h2 class="footer_h1 text-center text-lg-start py-3 py-lg-0">Let's Turn Your Ideas Into <span class="highlight">Reality</span>!</h2>
             </div>
             <div class="col-lg-5 col-12 d-flex justify-content-center align-items-center">
               <div>
