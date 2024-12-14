@@ -1,5 +1,5 @@
 <?php
-define('BASE_URL', 'https://taystan.design/');
+// define('BASE_URL', 'https://taystan.design/');
 require 'config.php';
 
 // Default configurations
