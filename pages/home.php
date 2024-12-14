@@ -10,8 +10,8 @@
                  <p class="p-text py-4 py-lg-2">Creating user-friendly websites with <span class="highlight">affordable</span> solutions for growing businesses and <span class="highlight">impactful</span> organizations</p>
 
                 <div class="flex-row">
-                    <a href="#explore" class="button-primary">Discover more</a>
-                    <a href="/projects" class="btn-secondary">View projects <i class="fa-solid fa-arrow-right"></i></a>
+                    <a href="#explore" class="button-primary" aria-label="Scrolls down to the next section">Discover more</a>
+                    <a href="/projects" class="btn-secondary" aria-label="Link to the projects page">View projects <i class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center p-4 pb-5" data-aos="fade-up" data-aos-duration="1500">
@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="d-flex justify-content-center align-items-center pt-3" data-aos="fade-up"  data-aos-duration="1500">
-                    <a href="/contact" class="button-primary">Connect with me</a>
+                    <a href="/contact" class="button-primary" aria-label="Link to the contact page">Connect with me</a>
                 </div>
             </div>
         </div>
@@ -141,7 +141,7 @@
                     </div>
                 </div>
                 <div class="d-flex justify-content-center align-items-center pt-3" data-aos="fade-up"  data-aos-duration="1500">
-                    <a href="/contact" class="button-primary">Request a quote</a>
+                    <a href="/contact" class="button-primary" aria-label="Link to the contact page">Request a quote</a>
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center align-self-stretch pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1800">
@@ -178,7 +178,7 @@
             </div>
         </div>
         <div class="d-flex justify-content-center align-items-center pt-2" data-aos="fade-up"  data-aos-duration="1500">
-            <a href="/contact" class="button-primary">Send me a message</a>
+            <a href="/contact" class="button-primary" aria-label="Link to the contact page">Send me a message</a>
             <span class="full-width-line"></span>
         </div>
     </div>
@@ -215,7 +215,7 @@
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Lakisha Clarke</h3>
-                        <a href="https://ksgf.org/" class="quote-link" target="_blank">Kids Sew Genius Foundation, Founder</a>
+                        <a href="https://ksgf.org/" class="quote-link" target="_blank" aria-label="Link to the Kids Sew Genius Foundation website">Kids Sew Genius Foundation, Founder</a>
                     </div>
                 </div>
             </div>
@@ -240,7 +240,7 @@
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Mona Arestil</h3>
-                        <a href="https://www.beamingbrite.org/" class="quote-link" target="_blank">Beaming Brite, Founder</a>
+                        <a href="https://www.beamingbrite.org/" class="quote-link" target="_blank" aria-label="Link to the Beaming Brite website">Beaming Brite, Founder</a>
                     </div>
                 </div>
             </div>
@@ -252,13 +252,13 @@
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Ashley Morgan</h3>
-                        <a href="https://lotusblissbotanicals.com/" class="quote-link" target="_blank">Lotus Bliss Botanicals, Founder</a>
+                        <a href="" class="quote-link" aria-label="Empty link">Lotus Bliss Botanicals, Founder</a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="d-flex justify-content-center align-items-center pt-3" data-aos="fade-up"  data-aos-duration="1500">
-            <a href="/testimonials" class="button-primary">Read testimonials</a>
+            <a href="/testimonials" class="button-primary" aria-label="Link to the testimonials page">Read testimonials</a>
             <span class="full-width-line"></span>
         </div>
     </div>
@@ -317,7 +317,7 @@
                 <h2>Request a <span class="highlight">FREE</span> Website Audit</h2>
             </div>
             <div class="d-flex justify-content-center align-items-center pt-3">
-                <a href="/contact" class="button-secondary">Contact Me</a>
+                <a href="/contact" class="button-secondary" aria-label="Link to the contact page">Contact Me</a>
             </div>
         </div>
     </div>
@@ -474,7 +474,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                         </div>
                     </div>
                     <div>
-                        <a href="/contact" class="button-primary">Get started</a>
+                        <a href="/contact" class="button-primary" aria-label="Link to the contact page">Get started</a>
                     </div>
                 </li>
                 <li class="cs-item cs-popular d-flex justify-content-between py-5" data-aos="fade-up" data-aos-duration="1800">
@@ -508,7 +508,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                         </div>
                     </div>
                     <div>
-                        <a href="/contact" class="button-primary">Get started</a>
+                        <a href="/contact" class="button-primary" aria-label="Link to the contact page">Get started</a>
                     </div>
                 </li>
                 <li class="cs-item d-flex justify-content-between" data-aos="fade-up" data-aos-duration="1500">
@@ -546,7 +546,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                         </div>
                     </div>
                     <div>
-                        <a href="/contact" class="button-primary">Get started</a>
+                        <a href="/contact" class="button-primary" aria-label="Link to the contact page">Get started</a>
                     </div>
                 </li>
             </ul>
@@ -564,7 +564,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                 <div class="faq_intro" >
                     <h2 class="h2-faq">Here are some frequently asked <span class="highlight">questions</span> </h2>
                     <p class="p-text py-2">Don't see an answer here that you're looking for? Feel free to reach out to learn more!</p>
-                    <a href="/contact" class="btn btn-secondary p-0">Reach out to me <i class="fa-solid fa-arrow-right"></i></a>
+                    <a href="/contact" class="btn btn-secondary p-0" aria-label="Link to the contact page">Reach out to me <i class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-7 col-12" data-aos="fade-up" data-aos-duration="1800">
