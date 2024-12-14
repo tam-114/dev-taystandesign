@@ -5,7 +5,7 @@
             <div class="col d-flex justify-content-center align-items-start flex-column pt-5 pt-lg-0 pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1500">
                 <svg class="flipping-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg>
                 </svg>
-                <h1 class="hero-h1-text" >Freelance Web Designer</h1>
+                <h1 class="hero-h1-text" >Freelance Web Designer/Developer</h1>
                 <!-- <p class="p-text py-lg-4">Creating websites with affordable solutions for growing businesses and impactful organizations</p> -->
                  <p class="p-text py-4 py-lg-2">Creating user-friendly websites with <span class="highlight">affordable</span> solutions for growing businesses and <span class="highlight">impactful</span> organizations</p>
 
