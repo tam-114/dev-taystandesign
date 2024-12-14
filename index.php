@@ -1,4 +1,7 @@
 <?php
+define('BASE_URL', 'https://taystan.design/');
+require 'config.php';
+
 // Default configurations
 $action = isset($_GET['path']) ? $_GET['path'] : 'home'; // Capture requested path
 $include_header = true; // Whether to include header

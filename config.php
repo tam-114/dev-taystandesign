@@ -15,6 +15,7 @@ if ($conn->connect_error) {
 
 // General settings
 define('BASE_URL', '/');
+// define('BASE_URL', 'https://taystan.design/');
 // define('SITE_NAME', 'My Website');
 
 // Error reporting
