@@ -15,7 +15,7 @@ switch ($action) {
         $Page_Title = "Projects";
         $Page_Description = "Client projects";
         $Page_Keywords = "projects";
-        $include_file = 'pages/projects';
+        $include_file = 'pages/projects/index.php';
         $pageid = "projects";
         break;
 
