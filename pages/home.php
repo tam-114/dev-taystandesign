@@ -7,7 +7,7 @@
                 </svg>
                 <h1 class="hero-h1-text" >Freelance Web Designer & Developer</h1>
                 <!-- <p class="p-text py-lg-4">Creating websites with affordable solutions for growing businesses and impactful organizations</p> -->
-                 <p class="p-text py-4 py-lg-2">Creating user-friendly websites with <span class="highlight">affordable</span> solutions for growing businesses and <span class="highlight">impactful</span> organizations</p>
+                 <p class="p-text py-4 py-lg-2">Creating user-friendly websites with <span class="highlight">affordable</span> solutions for growing businesses, <span class="highlight">impactful</span> organizations, and entrepeneurs</p>
 
                 <div class="flex-row">
                     <a href="#explore" class="button-primary" aria-label="Scrolls down to the next section">Discover more</a>
