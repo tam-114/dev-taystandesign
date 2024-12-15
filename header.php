@@ -26,13 +26,20 @@
     <!-- AOS -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-    <!-- reCAPTCHA -->
-    <!-- <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-    <script>
-    function onSubmit(token) {
-        document.getElementById("contact-form").submit();
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Taystan Design",
+      "url": "https://taystan.design",
+      "logo": "https://taystan.design/taystan-logo2.png",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "407-434-9422",
+          "contactType": "Customer Service"
+        }
     }
-    </script> -->
+    </script>
 </head>
 <body>
 
