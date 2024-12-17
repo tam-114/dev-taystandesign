@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row row-cols-1 flex-lg-row flex-column justify-content-center align-items-center gy-5">
             <div class="col d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-duration="1500">
-                 <img src="/assets/images/freelance_hero.png" alt="" class="img-fluid" width="100%" height="100%">
+                 <img src="/assets/images/freelance_hero2.png" alt="" class="img-fluid" width="100%" height="100%">
             </div>
             <div class="col d-flex justify-content-center align-items-start flex-column" data-aos="fade-up" data-aos-duration="1500">
                 <svg class="flipping-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg>
@@ -53,7 +53,7 @@
     <div class="container">
         <div class="row row-cols-lg-2 flex-column flex-lg-row justify-content-center align-items-center align-items-lg-start">
         <div class="col d-flex justify-content-center align-items-center pb-5 pb-lg-0 align-self-center" data-aos="fade-up" data-aos-duration="1800">
-                <img src="./assets/images/how-i-help.png" alt="" class="about-img img-fluid mx-auto"> 
+                <img src="./assets/images/how-i-help2.png" alt="" class="about-img img-fluid mx-auto"> 
             </div>
             <div class="col">
                 <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">How I Help</h4>
@@ -145,7 +145,7 @@
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center align-self-stretch pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1800">
-                <img src="./assets/images/about-me-img3.png" alt="" class="d-flex justify-content-center align-items-center img-fluid">
+                <img src="./assets/images/why-choose.png" alt="" class="d-flex justify-content-center align-items-center img-fluid">
             </div>
         </div>
     </div>
