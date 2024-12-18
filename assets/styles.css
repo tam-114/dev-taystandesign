@@ -216,6 +216,12 @@ a.noLink {
     padding: 0 10px;
 }
 
+.header-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @media (max-width: 992px) {
     .header-links .nav-icon {
         display: none;
