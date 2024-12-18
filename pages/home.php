@@ -451,7 +451,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                     <div>
                         <span class="cs-package">Starter Package</span>
                         <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
-                            <span class="cs-price">$300</span>
+                            <span class="cs-price">$600</span>
                             <p class="cs-item-text">
                                 Best for 1-3 pages
                             </p>
@@ -481,7 +481,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                     <div>
                         <span class="cs-package">Pro Package</span>
                         <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
-                            <span class="cs-price">$600</span>
+                            <span class="cs-price">$900</span>
                             <p class="cs-item-text">
                                 Best for 4-6 pages
                             </p>
@@ -515,7 +515,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                     <div>
                         <span class="cs-package">Custom Package</span>
                         <div class="cs-flex-wrapper flex-column justify-content-center align-items-center">
-                            <span class="cs-price">$900</span>
+                            <span class="cs-price">$1500</span>
                             <p class="cs-item-text">
                                 Tailored to Your Needs
                             </p>
