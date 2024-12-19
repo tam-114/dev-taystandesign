@@ -2646,3 +2646,7 @@ button.accordion-button {
 .custom-carousel-container::-webkit-scrollbar-track {
   background-color: transparent;
 }
+
+figcaption {
+  text-align: center;
+}
