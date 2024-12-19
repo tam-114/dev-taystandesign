@@ -121,6 +121,7 @@
     <div>
         <h2>Reflection</h2>
         <p>This project taught me the importance of balancing functionality and design. I learned how even small changes, like replacing images with text, can significantly impact a website's performance. Moving forward, I plan to incorporate even more interactive features, like user testimonials or live donation counters, to boost engagement further.</p>
+        <a href="https://ksgf.org" class="btn-secondary ps-0" aria-label="Link to the Kids Sew Genius Foundation page" nofollow>Visit the Kids Sew Genius Foundation Website <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
     </div>
 
 </div>
