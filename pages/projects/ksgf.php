@@ -32,7 +32,7 @@
         <div class="col">
             <figure>
                 <img src="/assets/images/ksgf_slice1_before.png" alt="" class="img-fluid">
-                <figcaption>Kids Sew Genius Foundation Before Re-Design</figcaption>
+                <figcaption class="figcaption">Fig 1. Kids Sew Genius Foundation Before Re-Design</figcaption>
             </figure>
         </div>
     </div>
@@ -42,7 +42,7 @@
         <div class="col">
             <figure>
                 <img src="/assets/images/ksgf_slice2_before.png" alt="" class="img-fluid">
-                <figcaption>Kids Sew Genius Foundation Before Re-Design</figcaption>
+                <figcaption class="figcaption">Fig 2. Kids Sew Genius Foundation Before Re-Design</figcaption>
             </figure>
         </div>
         <div class="col">
@@ -72,7 +72,7 @@
         <div class="col">
             <figure>
                 <img src="/assets/images/ksgf_slice1_after.png" alt="" class="img-fluid">
-                <figcaption>Kids Sew Genius Foundation After Re-Design</figcaption>
+                <figcaption class="figcaption">Fig 3. Kids Sew Genius Foundation After Re-Design</figcaption>
             </figure>
         </div>
     </div>
@@ -82,7 +82,7 @@
         <div class="col">
             <figure>
                 <img src="/assets/images/ksgf_slice2_after.png" alt="" class="img-fluid">
-                <figcaption>Kids Sew Genius Foundation After Re-Design</figcaption>
+                <figcaption class="figcaption">Fig 4. Kids Sew Genius Foundation After Re-Design</figcaption>
             </figure>
         </div>
         <div class="col">
@@ -112,7 +112,7 @@
         <div class="col">
             <figure>
                 <img src="/assets/images/ksgf_slice3_after.png" alt="" class="img-fluid">
-                <figcaption>Kids Sew Genius Foundation After Re-Design</figcaption>
+                <figcaption class="figcaption">Fig 5. Kids Sew Genius Foundation After Re-Design</figcaption>
             </figure>
         </div>
     </div>

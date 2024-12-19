@@ -2647,6 +2647,8 @@ button.accordion-button {
   background-color: transparent;
 }
 
-figcaption {
+.figcaption {
   text-align: center;
+  font-size: 12px;
+  padding-top: 10px;
 }
