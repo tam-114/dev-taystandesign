@@ -1,17 +1,7 @@
 # Enable URL rewriting
 RewriteEngine On
 
-# Redirect trailing slash to the same path without it
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)/$ /$1 [R=301,L]
-
 # Redirect everything to index.php
-# Ensure both with and without trailing slashes work
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)/$ index.php?path=$1 [L,QSA]
 RewriteRule ^(.*)$ index.php?path=$1 [L,QSA]
-
-# Exclude static files from rewrite rules
-RewriteCond %{REQUEST_URI} \.(css|js|jpg|jpeg|png|gif|webp|svg|woff|woff2|ttf|otf|eot|ico|mp4|webm|ogg|json|xml)$ [NC]
-RewriteRule ^ - [L]
