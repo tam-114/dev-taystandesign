@@ -6,6 +6,7 @@
     <!-- End cookieyes banner -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="hcDDSAA7Sx-89-MmxDLosBK5mBpBKjoZzegfzmoDbMY" />
     <meta name="description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepeneurs.">
     <meta name="keywords" content="Web Designer, Web Developer, Front End Web Developer, Taystan, Taystan Design, Taystan Dev, Taystan Development, Black-owned Business, Black Owned Business, POC entrepreneurs, POC-owned startups, diverse businesses, inclusive design">
     <link rel="canonical" href="https://taystan.design<?php echo parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH); ?>" />
