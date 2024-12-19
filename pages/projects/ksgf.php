@@ -19,7 +19,7 @@
 
 
     <!-- Row 1 -->
-    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start py-5">
+    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start flex-column-reverse flex-lg-row py-5">
         <div class="col">
             <h3><strong>Project Goals</strong></h3>
                 <p class="">The goal was to transform the site from a static, image-based design into a functional, user-friendly website that:</p>
@@ -59,7 +59,7 @@
     </div>
 
     <!-- Row 3 -->
-    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start py-5">
+    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start flex-column-reverse flex-lg-row py-5">
         <div class="col">
             <h3 class=""><strong>My Approach</strong></h3>
                 <p class="">I started by analyzing the old site’s structure and identifying areas for improvement. I focused on:</p>
@@ -99,7 +99,7 @@
     </div>
 
     <!-- Row 5 -->
-    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start py-5">
+    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start flex-column-reverse flex-lg-row py-5">
         <div class="col">
             <h3 class=""><strong>Results</strong></h3>
                 <p class="">The redesign led to several positive outcomes:</p>
