@@ -1,5 +1,5 @@
 <main>
-<div class="container">
+<div class="container pb-0">
     <h1 class="h1-title">Kids Sew Genius Foundation</h1>
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
@@ -11,11 +11,14 @@
 </div>
 
 <div class="container">
-    <h2>Project Details</h2>
-    <p>I worked with a non-profit youth mentorship program that helps underprivileged kids build life skills, confidence, and resilience. My job was to redesign their website to better represent their mission. We decided on a WordPress website, where I added 4 pages, the donation integrations, features like an engaging photo gallery, and easy-to-use forms to improve their online presence and make it more interactive.</p>
+    <div class="pb-3">
+        <h2>Project Details</h2>
+        <p>I worked with a non-profit youth mentorship program that helps underprivileged kids build life skills, confidence, and resilience. My job was to redesign their website to better represent their mission. We decided on a WordPress website, where I added 4 pages, the donation integrations, features like an engaging photo gallery, and easy-to-use forms to improve their online presence and make it more interactive.</p>
+    </div>
+
 
     <!-- Row 1 -->
-    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start">
+    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start gap-2">
         <div class="col">
             <h3><strong>Project Goals</strong></h3>
                 <p class="">The goal was to transform the site from a static, image-based design into a functional, user-friendly website that:</p>
