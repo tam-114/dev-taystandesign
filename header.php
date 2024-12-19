@@ -11,6 +11,7 @@
     <meta name="keywords" content="Web Designer, Web Developer, Front End Web Developer, Taystan, Taystan Design, Taystan Dev, Taystan Development, Black-owned Business, Black Owned Business, POC entrepreneurs, POC-owned startups, diverse businesses, inclusive design">
     <link rel="canonical" href="https://taystan.design<?php echo parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH); ?>" />
     <link rel="shortcut icon" href="/assets/images/taystan-logo.ico" type="image/x-icon">
+    <base href="https://taystan.design/">
     <title>Taystan Design</title>
 
     <!-- Bootstrap CSS -->
