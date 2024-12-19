@@ -1,6 +1,10 @@
 # Enable URL rewriting
 RewriteEngine On
 
+# Redirect trailing slashes to the non-slash equivalent (optional, can be removed)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [R=301,L]
+
 # Redirect everything to index.php
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
