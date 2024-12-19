@@ -11,7 +11,8 @@
 </div>
 
 <div class="container">
-    <h2>I worked with a non-profit youth mentorship program that helps underprivileged kids build life skills, confidence, and resilience. My job was to redesign their website to better represent their mission. We decided on a WordPress website, where I added 4 pages, the donation integrations, features like an engaging photo gallery, and easy-to-use forms to improve their online presence and make it more interactive.</h2>
+    <h2>Project Details</h2>
+    <p>I worked with a non-profit youth mentorship program that helps underprivileged kids build life skills, confidence, and resilience. My job was to redesign their website to better represent their mission. We decided on a WordPress website, where I added 4 pages, the donation integrations, features like an engaging photo gallery, and easy-to-use forms to improve their online presence and make it more interactive.</p>
 
     <!-- Row 1 -->
     <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start">
@@ -113,7 +114,8 @@
         </div>
     </div>
 
-    <h2>This project taught me the importance of balancing functionality and design. I learned how even small changes, like replacing images with text, can significantly impact a website's performance. Moving forward, I plan to incorporate even more interactive features, like user testimonials or live donation counters, to boost engagement further.</h2>
+    <h2>Reflection</h2>
+    <p>This project taught me the importance of balancing functionality and design. I learned how even small changes, like replacing images with text, can significantly impact a website's performance. Moving forward, I plan to incorporate even more interactive features, like user testimonials or live donation counters, to boost engagement further.</p>
 </div>
 
 <!-- <div class="container px-2" style="overflow: visible;">
