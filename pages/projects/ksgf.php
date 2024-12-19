@@ -11,7 +11,7 @@
 </div>
 
 <div class="container">
-    <div class="pb-5">
+    <div class="py-5">
         <h2>Project Details</h2>
         <p>I worked with a non-profit youth mentorship program that helps underprivileged kids build life skills, confidence, and resilience. My job was to redesign their website to better represent their mission. We decided on a WordPress website, where I added 4 pages, the donation integrations, features like an engaging photo gallery, and easy-to-use forms to improve their online presence and make it more interactive.</p>
         <a href="https://ksgf.org" class="btn-secondary ps-0" aria-label="Link to the Kids Sew Genius Foundation page" nofollow>Visit the Kids Sew Genius Foundation Website <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
