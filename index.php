@@ -62,6 +62,14 @@ switch ($action) {
         $pageid = "contact";
         break;
 
+    case 'contact-me':
+        $Page_Title = "Contact Us";
+        $Page_Description = "Get in touch with me.";
+        $Page_Keywords = "contact, email, phone";
+        $include_file = 'pages/contact.php';
+        $pageid = "contact";
+        break;
+
     case 'thankyou':
         $Page_Title = "Thank You for Reaching Out";
         $Page_Description = "Form has been submitted successfully.";
