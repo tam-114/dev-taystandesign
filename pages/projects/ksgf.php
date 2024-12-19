@@ -18,7 +18,7 @@
 
 
     <!-- Row 1 -->
-    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start gap-2">
+    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start py-5">
         <div class="col">
             <h3><strong>Project Goals</strong></h3>
                 <p class="">The goal was to transform the site from a static, image-based design into a functional, user-friendly website that:</p>
@@ -38,7 +38,7 @@
     </div>
 
     <!-- Row 2 -->
-    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start">
+    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start py-5">
         <div class="col">
             <figure>
                 <img src="/assets/images/ksgf_slice2_before.png" alt="" class="img-fluid">
@@ -58,7 +58,7 @@
     </div>
 
     <!-- Row 3 -->
-    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start">
+    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start py-5">
         <div class="col">
             <h3 class=""><strong>My Approach</strong></h3>
                 <p class="">I started by analyzing the old site’s structure and identifying areas for improvement. I focused on:</p>
@@ -78,7 +78,7 @@
     </div>
 
     <!-- Row 4 -->
-    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start">
+    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start py-5">
         <div class="col">
             <figure>
                 <img src="/assets/images/ksgf_slice2_after.png" alt="" class="img-fluid">
@@ -98,7 +98,7 @@
     </div>
 
     <!-- Row 5 -->
-    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start">
+    <div class="row row-cols-lg-2 row-cols-1 d-flex justify-content-center align-items-start py-5">
         <div class="col">
             <h3 class=""><strong>Results</strong></h3>
                 <p class="">The redesign led to several positive outcomes:</p>
@@ -117,8 +117,11 @@
         </div>
     </div>
 
-    <h2>Reflection</h2>
-    <p>This project taught me the importance of balancing functionality and design. I learned how even small changes, like replacing images with text, can significantly impact a website's performance. Moving forward, I plan to incorporate even more interactive features, like user testimonials or live donation counters, to boost engagement further.</p>
+    <div>
+        <h2>Reflection</h2>
+        <p>This project taught me the importance of balancing functionality and design. I learned how even small changes, like replacing images with text, can significantly impact a website's performance. Moving forward, I plan to incorporate even more interactive features, like user testimonials or live donation counters, to boost engagement further.</p>
+    </div>
+
 </div>
 
 <!-- <div class="container px-2" style="overflow: visible;">
