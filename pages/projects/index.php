@@ -53,12 +53,6 @@ $projects = $result ? $result->fetch_all(MYSQLI_ASSOC) : [];
                     <p class="p-text text-center">Explore my portfolio to see how creativity meets functionality. Each project is crafted with care to deliver results, inspire users, and bring visions to reality.</p>
                 </div>
             </div>
-        <!-- <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="< ?php echo BASE_URL; ?>">Home</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Projects</li>
-        </ol>
-        </nav> -->
     </div>
   
 <?php
