@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <!-- Start cookieyes banner --> 
-    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/8a7bef28be0825ec44d61e04/script.js"></script> 
+    <script async id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/8a7bef28be0825ec44d61e04/script.js"></script> 
     <!-- End cookieyes banner -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
