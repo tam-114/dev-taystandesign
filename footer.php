@@ -67,7 +67,7 @@
 </footer>
 </main>
 <!-- Scripts -->
- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
  
 <script src="/assets/script.js"></script>
 
@@ -76,5 +76,9 @@
 <script>
   AOS.init();
 </script>
+
+<!-- Start cookieyes banner --> 
+<script async id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/8a7bef28be0825ec44d61e04/script.js"></script> 
+<!-- End cookieyes banner -->
 </body>
 </html>
