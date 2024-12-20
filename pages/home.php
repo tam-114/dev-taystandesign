@@ -53,7 +53,7 @@
     <div class="container">
         <div class="row row-cols-lg-2 flex-column flex-lg-row justify-content-center align-items-center align-items-lg-start">
         <div class="col d-flex justify-content-center align-items-center pb-5 pb-lg-0 align-self-center" data-aos="fade-up" data-aos-duration="1800">
-                <img src="./assets/images/how-i-help2.png" alt="" class="about-img img-fluid mx-auto"> 
+                <img data-src="./assets/images/how-i-help2.png" alt="Team high-fiving" class="about-img img-fluid mx-auto lazyload"> 
             </div>
             <div class="col">
                 <h4 class="subtitle-text" data-aos="fade-up"  data-aos-duration="1500">How I Help</h4>
@@ -62,7 +62,7 @@
 
                 <div class="d-flex justify-content-center align-items-baseline flex-row gx-4 gap-4"  data-aos="fade-up" data-aos-duration="1500">
                     <div>
-                        <img src="/assets/images/message.svg" alt="">
+                        <img data-src="/assets/images/message.svg" alt="message chat bubble" class="lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Simplify Your Message</h3>
@@ -71,7 +71,7 @@
                 </div>
                 <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
-                        <img src="/assets/images/boost.svg" alt="">
+                        <img data-src="/assets/images/boost.svg" alt="lightning bolt" class="lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Boost Engagement</h3>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
-                        <img src="/assets/images/budget.svg" alt="">
+                        <img data-src="/assets/images/budget.svg" alt="piggy bank bubble" class="lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Stay Budget-Friendly</h3>
@@ -106,7 +106,7 @@
 
                 <div class="d-flex align-items-baseline flex-row gap-4"  data-aos="fade-up" data-aos-duration="1500">
                     <div>
-                        <img src="/assets/images/transparency.svg" alt="">
+                        <img data-src="/assets/images/transparency.svg" alt="checkmark bubble" class="lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Transparency You Can Count On</h3>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
-                        <img src="/assets/images/accessibility.svg" alt="">
+                        <img data-src="/assets/images/accessibility.svg" alt="accessibility bubble" class="lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Focus on Inclusion and Accessibility</h3>
@@ -124,7 +124,7 @@
                 </div>
                 <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
-                        <img src="/assets/images/goals.svg" alt="">
+                        <img data-src="/assets/images/goals.svg" alt="thumbs up bubble" class="lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Experience with Your Goals</h3>
@@ -133,7 +133,7 @@
                 </div>
                 <div class="d-flex justify-content-center align-items-baseline flex-row gap-4"  data-aos="fade-up"  data-aos-duration="1500">
                     <div>
-                        <img src="/assets/images/resourceful.svg" alt="">
+                        <img data-src="/assets/images/resourceful.svg" alt="wrench bubble" class="lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Resourceful and Adaptable</h3>
@@ -145,7 +145,7 @@
                 </div>
             </div>
             <div class="col d-flex justify-content-center align-items-center align-self-stretch pb-5 pb-lg-0" data-aos="fade-up" data-aos-duration="1800">
-                <img src="./assets/images/why-choose.png" alt="" class="d-flex justify-content-center align-items-center img-fluid">
+                <img data-src="./assets/images/why-choose.png" alt="black woman feeling accomplished" class="d-flex justify-content-center align-items-center img-fluid lazyload">
             </div>
         </div>
     </div>
@@ -190,11 +190,11 @@
         <h2 class="h2-text text-center" style="font-size: 30px;" data-aos="fade-up"  data-aos-duration="1500">Experience with these <span class="highlight">CMS</span> platforms</h2>
         <div class="custom-carousel-container" data-aos="fade-up"  data-aos-duration="1500">
             <div class="custom-carousel justify-content-start justify-content-lg-center">
-            <img src="/assets/images/WordPress-logotype-standard 1 1.png" alt="Image 1" class="carousel-image" style="width:200px;height:50px;">
-                <img src="/assets/images/Webflow_logo.svg" alt="Image 2" class="carousel-image">
-                <img src="/assets/images/shopify 1.png" alt="Image 3" class="carousel-image">
-                <img src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Image 4" class="carousel-image" style="width:200px;height:50px;">
-                <img src="/assets/images/framer-logo 1.png" alt="Image 5" class="carousel-image pe-3 pe-lg-0">
+            <img data-src="/assets/images/WordPress-logotype-standard 1 1.png" alt="WordPress logo" class="carousel-image lazyload" style="width:200px;height:50px;">
+                <img data-src="/assets/images/Webflow_logo.svg" alt="Webflow logo" class="carousel-image lazyload">
+                <img data-src="/assets/images/shopify 1.png" alt="Shopify logo" class="carousel-image lazyload">
+                <img data-src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Squarespace logo" class="carousel-image lazyload" style="width:200px;height:50px;">
+                <img data-src="/assets/images/framer-logo 1.png" alt="Framer logo" class="carousel-image pe-3 pe-lg-0 lazyload">
             </div>
         </div>
     </div>
@@ -211,7 +211,7 @@
                 <p class="p-text">“ It was an absolute pleasure working with Taystan Design, LLC. Ms. Taylor, the owner, is very knowledgeable and professional… ”</p>
                 <div class="d-flex justify-content-center align-items-center flex-row gx-2">
                     <div>
-                        <img src="./assets/images/L.png" alt="" style="width:60px;height:60px;" class="quote-letter">
+                        <img data-src="./assets/images/L.png" alt="Letter L" style="width:60px;height:60px;" class="quote-letter lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Lakisha Clarke</h3>
@@ -236,7 +236,7 @@
                 <p class="p-text">“Taylor was great to work with. She is very professional, timely and knows what she is doing. She revamped our website in a way that brings it more to life….”</p>
                 <div class="d-flex justify-content-center align-items-center flex-row gx-2">
                     <div>
-                        <img src="./assets/images/M.png" alt="" style="width:60px;height:60px;" class="quote-letter">
+                        <img data-src="./assets/images/M.png" alt="letter M" style="width:60px;height:60px;" class="quote-letter lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Mona Arestil</h3>
@@ -248,7 +248,7 @@
                 <p class="p-text">“It was a pleasure working with Taylor on a website update project. Her timeliness, attention to detail and expertise of website building surpassed my expectations and turned this project into a success…”</p>
                 <div class="d-flex justify-content-center align-items-center flex-row gx-2">
                     <div>
-                        <img src="./assets/images/A.png" alt="" style="width:60px;height:60px;" class="quote-letter">
+                        <img data-src="./assets/images/A.png" alt="letter A" style="width:60px;height:60px;" class="quote-letter lazyload">
                     </div>
                     <div>
                         <h3 class="h3-text pb-0">Ashley Morgan</h3>

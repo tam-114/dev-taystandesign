@@ -31,6 +31,9 @@
     <!-- AOS -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
+    <!-- Lazyload Images -->
+    <script src="/assets/lazysizes.min.js" async=""></script>
+
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
