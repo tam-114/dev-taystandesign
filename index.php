@@ -117,6 +117,14 @@ switch ($action) {
         $pageid = "terms";
         break;
 
+    case 'templates':
+        $Page_Title = "Templates";
+        $Page_Description = "Templates";
+        $Page_Keywords = "templates";
+        $include_file = 'pages/templates.php';
+        $pageid = "terms";
+        break;
+
     default:
         if ($action === 'home') {
             $Page_Title = "Home";
