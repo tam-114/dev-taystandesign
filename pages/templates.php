@@ -10,7 +10,7 @@
         </div>
 
         <div class="col">
-            <img src="./assets/images/Dentistry_Mockup.png" alt="" class="img-fluid templates-img">
+            <img src="./assets/images/Salon_Mockup.png" alt="" class="img-fluid templates-img">
             <div class="py-3">
                 <h2>Hair Salon Template</h2>
                 <p>This is a template landing page for a Hair Salon website. The placeholder business information is for the Beauty Royale Hair Salon.</p>
