@@ -5,7 +5,7 @@
             <div class="py-3">
                 <h2>Dentistry Template</h2>
                 <p>This is a template landing page for a Dentistry website. The placeholder business information is for the Orlando Dentist Center.</p>
-                <a href="#" class="btn-secondary ps-0" aria-label="Link to Dentistry website">Go to Dentistry Website <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+                <a href="#" class="btn-secondary ps-0" aria-label="Link to Dentistry Template Website">Go to Dentistry Website <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
             </div>
         </div>
     </div>
