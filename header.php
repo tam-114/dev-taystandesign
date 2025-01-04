@@ -83,7 +83,7 @@
 <!-- Navbar --->
 <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#"><img src="/assets/images/taystan-logo2.png" alt="" class="logo" aria-label="Link to home page"></a>
+    <a class="navbar-brand" href="/"><img src="/assets/images/taystan-logo2.png" alt="Taystan Design Logo" class="logo" aria-label="Link to home page"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
