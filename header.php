@@ -4,8 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="hcDDSAA7Sx-89-MmxDLosBK5mBpBKjoZzegfzmoDbMY" />
-    <meta name="description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepeneurs.">
-    <meta name="keywords" content="Web Designer, Web Developer, Front End Web Developer, Taystan, Taystan Design, Taystan Dev, Taystan Development, Black-owned Business, Black Owned Business, POC entrepreneurs, POC-owned startups, diverse businesses, inclusive design">
+
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="Taystan Design - Freelance Web Designer & Developer" />
+    <meta name="description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepreneurs." />
+    <meta name="keywords" content="Web Designer, Web Developer, Front End Web Developer, Taystan, Taystan Design, Taystan Dev, Taystan Development, Black-owned Business, Black Owned Business, POC entrepreneurs, POC-owned startups, diverse businesses, inclusive design" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.facebook.com/taystandesign" />
+    <meta property="og:title" content="Taystan Design - Freelance Web Designer & Developer" />
+    <meta property="og:description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepreneurs." />
+    <meta property="og:image" content="https://taystan.design/images/OG_Meta_img.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://metatags.io/" />
+    <meta property="twitter:title" content="Taystan Design - Freelance Web Designer & Developer" />
+    <meta property="twitter:description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepreneurs." />
+    <meta property="twitter:image" content="https://taystan.design/images/OG_Meta_img.png" />
+
+
     <link rel="canonical" href="https://taystan.design<?php echo parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH); ?>" />
     <link rel="icon" href="/assets/images/taystan-logo2.png" type="image/x-icon">
     <base href="https://taystan.design/">
