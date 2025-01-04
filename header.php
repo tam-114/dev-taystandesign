@@ -9,6 +9,7 @@
     <meta name="title" content="Taystan Design - Freelance Web Designer & Developer" />
     <meta name="description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepreneurs." />
     <meta name="keywords" content="Web Designer, Web Developer, Front End Web Developer, Taystan, Taystan Design, Taystan Dev, Taystan Development, Black-owned Business, Black Owned Business, POC entrepreneurs, POC-owned startups, diverse businesses, inclusive design" />
+    <meta name="author" content="Taylor Stanley">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
