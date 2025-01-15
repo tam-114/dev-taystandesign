@@ -160,7 +160,7 @@ $color = "#1a1a1a";
                         </button>
                         </h2>
                         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Yes! There is an upfront cost for yearly maintenance and hosting of the site, or priced per month depending on the package selected. Depending on the request, changes can be included in the maintenance fee or an additional $25/hr until completion.</div>
+                            <div class="accordion-body">Yes! There is an upfront cost for yearly maintenance and hosting of the site, or priced per month depending on the package selected. Depending on the request, changes can be included in the maintenance fee or an additional $30/hr until completion.</div>
                         </div>
                     </div>
                     <div class="accordion-item">
