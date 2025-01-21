@@ -67,6 +67,7 @@
             <h3>Ready to Bring Your Website to Life?</h3>
             <p>Owning a website is still a very viable option in today’s digital world. It gives you control, builds your credibility, and works for you 24/7. If you’re a small business owner, freelancer, or just someone with a passion project, having a website puts you in front of many more eyes. <a href="/contact">Book a free 30-minute consultation</a> and let’s create a website that works for you.</p>
          </article>
-
+        
+         <a hhref="/blog" class="btn-secondary" aria-label="Link to the blog page">Back to Blogs <i class="fa-solid fa-arrow-left"></i></a>
     </div>
 </section>
