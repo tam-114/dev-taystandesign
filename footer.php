@@ -15,7 +15,7 @@
         <div class="row flex-lg-row flex-column">
           <div class="col-lg-6 col-12">
             <h3 class="footer_h3 uppercase">Taystan.Design</h3>
-            <p class="footer_p">Creating user-friendly websites with affordable solutions for growing businesses and impactful organizations</p>
+            <p class="footer_p">Creating user-friendly websites with affordable solutions for growing businesses, impactful organizations, and entrepreneurs</p>
             <img src="/assets/images/black_owned_icon.png" alt="Black Owned Icon" class="img-fluid" width="24px" height="24px">
           </div>
 
