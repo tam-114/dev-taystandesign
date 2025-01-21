@@ -9,7 +9,7 @@
                 <p class="p-text text-center">Here you'll find articles with insights, tips, and practical advice for all things web development & design.</p>
             </div>
 
-            <div class="card" style="width: 18rem;">
+            <div class="card mt-3" style="width: 18rem;">
                 <img src="/assets/images/Own_Website.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Why Should You Own a Website?</h5>
