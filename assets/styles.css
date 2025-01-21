@@ -2677,8 +2677,12 @@ button.accordion-button {
   height: 100%;
 }
 
-.blog-container > article h2 {
+.blog-date {
+  padding: 3rem 0;
+}
 
+.blog-container > article h2 {
+  padding-top: 2rem;
 }
 
 .blog-container > article h3 {
