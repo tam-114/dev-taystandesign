@@ -49,7 +49,7 @@
             For example, if you’re a baker in Orlando, having an optimized website could make you the top result for “Orlando custom cakes.” Social media is great for visibility, but it’s not as helpful when someone is actively searching for a solution. Your website fills that gap and connects you with people who need what you’re offering.</p>
 
             <h3>5. Your Website Works Around the Clock</h3>
-            <p>t’s working for you 24/7, even when you’re not. Your site can already answer questions, book appointments, or make sales. It can keep things running while you focus on other things.
+            <p>It’s working for you 24/7, even when you’re not. Your site can already answer questions, book appointments, or make sales. It can keep things running while you focus on other things.
             <br>
             For example, if you’re a hairstylist, your website can let clients book appointments, see your previous work, and show your pricing without having to call or text you. It’s like another team member that’s always on the clock.</p>
 
