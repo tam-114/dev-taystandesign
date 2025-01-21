@@ -2679,6 +2679,7 @@ button.accordion-button {
 
 .blog-date {
   padding: 3rem 0;
+  font-weight: 600;
 }
 
 .blog-container > article h2 {
