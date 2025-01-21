@@ -104,6 +104,9 @@
         <li class="nav-item">
           <a class="nav-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'templates') ? 'active' : ''; ?>" href="/templates">Templates</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link <?php echo (isset($_GET['path']) && $_GET['path'] === 'blog') ? 'active' : ''; ?>" href="/blog">Blog</a>
+        </li>
       </ul>
       <div class="header-links navbar-links">
         <a href="https://twitter.com/ta11ystan" target="_blank" class="nav-icon" aria-label="Link to Twitter page">
