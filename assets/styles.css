@@ -2671,6 +2671,12 @@ button.accordion-button {
   padding: 0;
 }
 
+.blog-img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
 .blog-container > article h2 {
 
 }
