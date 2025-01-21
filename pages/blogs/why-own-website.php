@@ -5,7 +5,7 @@
 
         <!-- Content -->
          <div class="d-flex align-items-start text-start">
-            <span class="p-2">Monday, January 20, 2025</span>
+            <span class="p-5">Monday, January 20, 2025</span>
          </div>
          
     </div>
