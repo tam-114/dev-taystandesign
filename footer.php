@@ -49,7 +49,7 @@
           <div class="col-lg-3 col-12 pb-5 pb-lg-0">
             <h3 class="footer_h3">Working Hours</h3>
             <p class="footer_p">Mon-Fri: 9AM - 2PM</p>
-            <p class="footer_p">Saturday: 12AM - 5PM</p>
+            <p class="footer_p">Saturday: 12PM - 5PM</p>
             <p class="footer_p">Sunday: OFF</p>
           </div>
         </div>
