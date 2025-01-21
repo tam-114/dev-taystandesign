@@ -2687,7 +2687,7 @@ button.accordion-button {
 }
 
 .blog-container > article h3 {
-  
+  padding-top: 2rem;
 }
 
 .blog-container > article p {
