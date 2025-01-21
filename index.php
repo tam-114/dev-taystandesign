@@ -14,6 +14,22 @@ $Page_Keywords = "";    // Meta keywords
 
 // Dispatcher logic
 switch ($action) {
+    case 'blogs':
+        $Page_Title = "Blogs";
+        $Page_Description = "Blog posts";
+        $Page_Keywords = "blogs";
+        $include_file = 'pages/blogs/index.php';
+        $pageid = "blogs";
+        break;
+
+    case 'blogs/why-own-website':
+        $Page_Title = "KSGF Project";
+        $Page_Description = "Why should you own a website?";
+        $Page_Keywords = "blogs, why should I own a website";
+        $include_file = 'pages/blogs/why-own-website.php';
+        $pageid = "blogs";
+        break;
+
     case 'projects':
         $Page_Title = "Projects";
         $Page_Description = "Client projects";
