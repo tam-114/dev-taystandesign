@@ -183,22 +183,23 @@
     </div>
 </section>
 
-<section class="bg-body-pink section-padding">
-    <div class="container"> 
-        <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Website Builders</h4>
-        <h2 class="h2-text text-center" style="font-size: 30px;" data-aos="fade-up"  data-aos-duration="1500">Experience with these <span class="highlight">CMS</span> platforms</h2>
-        <div class="custom-carousel-container" data-aos="fade-up"  data-aos-duration="1500">
-            <div class="custom-carousel justify-content-start justify-content-lg-center">
-            <img data-src="/assets/images/WordPress-logotype-standard 1 1.png" alt="WordPress logo" class="carousel-image lazyload" style="width:200px;height:50px;">
-                <img data-src="/assets/images/Webflow_logo.svg" alt="Webflow logo" class="carousel-image lazyload">
-                <img data-src="/assets/images/shopify 1.png" alt="Shopify logo" class="carousel-image lazyload">
-                <img data-src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Squarespace logo" class="carousel-image lazyload" style="width:200px;height:50px;">
-                <img data-src="/assets/images/framer-logo 1.png" alt="Framer logo" class="carousel-image pe-3 pe-lg-0 lazyload">
+<section class="section-padding">
+    <section class="bg-body-pink section-padding">
+        <div class="container"> 
+            <h4 class="subtitle-text text-center" data-aos="fade-up"  data-aos-duration="1500">Website Builders</h4>
+            <h2 class="h2-text text-center" style="font-size: 30px;" data-aos="fade-up"  data-aos-duration="1500">Experience with these <span class="highlight">CMS</span> platforms</h2>
+            <div class="custom-carousel-container" data-aos="fade-up"  data-aos-duration="1500">
+                <div class="custom-carousel justify-content-start justify-content-lg-center">
+                <img data-src="/assets/images/WordPress-logotype-standard 1 1.png" alt="WordPress logo" class="carousel-image lazyload" style="width:200px;height:50px;">
+                    <img data-src="/assets/images/Webflow_logo.svg" alt="Webflow logo" class="carousel-image lazyload">
+                    <img data-src="/assets/images/shopify 1.png" alt="Shopify logo" class="carousel-image lazyload">
+                    <img data-src="/assets/images/squarespace-logo-horizontal-black 1 1.png" alt="Squarespace logo" class="carousel-image lazyload" style="width:200px;height:50px;">
+                    <img data-src="/assets/images/framer-logo 1.png" alt="Framer logo" class="carousel-image pe-3 pe-lg-0 lazyload">
+                </div>
             </div>
         </div>
-    </div>
+    </section>
 </section>
-
 
 
 <section class="section-padding">

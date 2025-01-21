@@ -16,7 +16,7 @@
           <div class="col-lg-6 col-12">
             <h3 class="footer_h3 uppercase">Taystan.Design</h3>
             <p class="footer_p">Creating user-friendly websites with affordable solutions for growing businesses, impactful organizations, and entrepreneurs</p>
-            <img src="/assets/images/black_owned_icon.png" alt="Black Owned Icon" class="img-fluid" width="18px" height="18px">
+            <img src="/assets/images/black_owned_icon.png" alt="Black Owned Icon" class="img-fluid" width="24px" height="24px">
             <p class="footer_p pt-2">Looking to support? <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="taystandesign" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script></p>
           </div>
 
