@@ -2662,3 +2662,10 @@ button.accordion-button {
 .templates-img {
   border-radius: 10px;
 }
+
+/* ===================
+      BLOG
+=====================*/
+.blog-container {
+  background-color: #F9F2F2;
+}
