@@ -2682,6 +2682,10 @@ button.accordion-button {
   font-weight: 600;
 }
 
+.blog-title {
+  font-weight: 600;
+}
+
 .blog-container > article h2 {
   padding-top: 2rem;
 }
