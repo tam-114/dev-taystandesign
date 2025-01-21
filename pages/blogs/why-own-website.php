@@ -8,7 +8,7 @@
             <span class="p-5">Monday, January 20, 2025</span>
          </div>
          
-         <article>
+         <article class="container px-3">
             <h2>Why Should You Own a Website?</h2>
             <p>Have you been thinking about what you'd do since the talk of TikTok being banned? What if it wasn't just TikTok, maybe Instagram or another social media platform suddenly disappeared? Or if your account got banned for no clear reason? Unfortunately, this isn't just a “what if” scenario. Platforms like TikTok may have only been banned for a whooping 12 hours, but and businesses that rely solely on social media often find themselves in a tough spot when things change overnight. That's why owning your own website can be the best move going forward. Here's why having a website can make all the difference.</p>
             
