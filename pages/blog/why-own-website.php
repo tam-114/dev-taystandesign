@@ -51,7 +51,7 @@
             <h3>5. Your Website Works Around the Clock</h3>
             <p>It’s working for you 24/7, even when you’re not. Your site can already answer questions, book appointments, or make sales. It can keep things running while you focus on other things.
             <br>
-            For example, if you’re a hairstylist, your website can let clients book appointments, see your previous work, and show your pricing without having to call or text you. It’s like another team member that’s always on the clock.</p>
+            For example, if you’re a hairstylist, your website can let clients see your availability, previous work, and show your pricing without having to call or text you. It’s like another team member that’s always on the clock.</p>
 
             <h3>Social Media + Website = The Dream Team</h3>
             <p>To be clear, social media isn’t the enemy. It’s a great way to connect with people and drive traffic to your website. Think of social media as the introduction and your website as the main event. Together, they create a strong online presence.
