@@ -52,7 +52,7 @@ $projects = $result ? $result->fetch_all(MYSQLI_ASSOC) : [];
                 <div class="d-flex justify-content-center align-items-center">
                     <p class="p-text text-center">Explore my portfolio to see how creativity meets functionality. Each project is crafted with care to deliver results, inspire users, and bring visions to reality.</p>
                 </div>
-            </div>
+        </div>
     </div>
   
 <?php
