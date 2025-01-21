@@ -10,7 +10,7 @@
             <p>Have you been thinking about what you'd do with your business on social media since the talk of TikTok being banned? What if it wasn't just TikTok, maybe Instagram or another social media platform suddenly disappeared? Or if your account got banned for no clear reason? Unfortunately, this isn't just a “what if” scenario. TikTok may have only been banned for a whooping 12 hours, but businesses that rely solely on social media often find themselves in a tough spot when things change overnight. That's why owning your own website can be the best move going forward. Here's why having a website can make all the difference.</p>
             
             <h3>1. You're in Control</h3>
-            <p>Think of your website as your online apartment. You’re not just renting space like you do with having a social media account—you’ll actually own your “home” outright. Social platforms can change their rules, mess with algorithms, or possibly just shut down, and then we lose a revenue stream. But when you have a website, you decide what goes on it, how it looks, and what’s featured. You’re in charge.
+            <p>Think of your website as your online apartment. You’re not just renting space like you do with having a social media account—you’ll actually own your “home” outright. Social platforms can change their rules, mess with algorithms, or possibly just shut down, and then you lose a revenue stream. But when you have a website, you decide what goes on it, how it looks, and what’s featured. You’re in charge.
             <br>
             With your own website, you don’t have to worry about losing years of hard work because of someone else’s decision. It’s yours.</p>
 
