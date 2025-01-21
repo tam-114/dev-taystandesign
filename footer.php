@@ -17,7 +17,7 @@
             <h3 class="footer_h3 uppercase">Taystan.Design</h3>
             <p class="footer_p">Creating user-friendly websites with affordable solutions for growing businesses, impactful organizations, and entrepreneurs</p>
             <img src="/assets/images/black_owned_icon.png" alt="Black Owned Icon" class="img-fluid" width="24px" height="24px">
-            <p>Looking to support? <a href="https://buymeacoffee.com/taystandesign">Buy me a coffee</a></p>
+            <p class="footer_p">Looking to support? <a href="https://buymeacoffee.com/taystandesign">Buy me a coffee</a></p>
           </div>
 
           <div class="col-lg-3 col-12 py-lg-0 py-4">
