@@ -1,5 +1,5 @@
 <section>
-    <div class="container mx-auto d-flex justify-content-center align-items-center blog-container flex-column">
+    <div class="container mx-auto d-flex justify-content-center align-items-start blog-container flex-column">
         <!-- Cover Image -->
         <img src="/assets/images/Own_Website.png" alt="" class="img-fluid">
 
