@@ -120,7 +120,7 @@ $color = "#1a1a1a";
                     </div>
                 </div>
             </div> -->
-            <?php include(BASE_PATH . 'components/faq.php');?>
+            <?php include('components/faq.php');?>
         </div>
     </div>
 </section>
