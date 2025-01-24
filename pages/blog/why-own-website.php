@@ -1,3 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="hcDDSAA7Sx-89-MmxDLosBK5mBpBKjoZzegfzmoDbMY" />
+
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="Taystan Design - Freelance Web Designer & Developer" />
+    <meta name="description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepreneurs." />
+    <meta name="keywords" content="Web Designer, Web Developer, Front End Web Developer, Taystan, Taystan Design, Taystan Dev, Taystan Development, Black-owned Business, Black Owned Business, POC entrepreneurs, POC-owned startups, diverse businesses, inclusive design" />
+    <meta name="author" content="Taylor Stanley">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Why Own a Website" />
+    <meta property="og:description" content="Learn the benefits of owning your own website." />
+    <meta property="og:image" content="https://taystan.design/assets/Own_Website.png" />
+    <meta property="og:url" content="https://taystan.design/blog/why-own-website" />
+    <meta property="og:type" content="article" />
+
+    <link rel="canonical" href="https://taystan.design<?php echo parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH); ?>" />
+    <link rel="icon" href="/assets/images/taystan-logo2.png" type="image/x-icon">
+    <base href="https://taystan.design/">
+    <title>Taystan Design - Freelance Web Designer & Developer</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <!-- My CSS -->
+    <link rel="stylesheet" href="/assets/styles.css?ver=<?php echo time(); ?>">
+
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <!-- FontAwesome -->
+    <script src="https://kit.fontawesome.com/572bc1bb94.js" crossorigin="anonymous"></script>
+
+    <!-- AOS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- Lazyload Images -->
+    <script src="/assets/lazysizes.min.js" async=""></script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Taystan Design",
+      "url": "https://taystan.design",
+      "logo": "https://taystan.design/taystan-logo2.png",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "407-434-9422",
+          "contactType": "Customer Service"
+        }
+    }
+    </script>
+
+  <!-- Hotjar Tracking Code for https://taystan.design -->
+  <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:5245926,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+</head>
+
+
 <section>
     <div class="container mx-auto d-flex justify-content-center blog-container flex-column">
         <!-- Cover Image -->
