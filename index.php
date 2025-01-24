@@ -141,6 +141,15 @@ switch ($action) {
         $pageid = "terms";
         break;
 
+    
+    case 'faq':
+        $Page_Title = "FAQ";
+        $Page_Description = "FAQ";
+        $Page_Keywords = "FAQ";
+        $include_file = 'components/faq.php';
+        $pageid = "faq";
+        break;
+
     default:
         if ($action === 'home') {
             $Page_Title = "Home";
