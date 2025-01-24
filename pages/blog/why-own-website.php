@@ -1,7 +1,7 @@
 <?php
 $ogTitle = "Why Should You Own a Website?";
 $ogDescription = "Learn the benefits of owning your own website.";
-$ogImage = "https://taystan.design/assets/Own_Website.png";
+$ogImage = "https://taystan.design/assets/images/Own_Website.png";
 $ogUrl = "https://taystan.design/blog/why-own-website";
 $ogType = "article";
 
