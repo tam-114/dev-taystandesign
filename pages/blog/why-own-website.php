@@ -14,7 +14,7 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:title" content="Why Should You Own a Website?" />
     <meta property="og:description" content="Learn the benefits of owning your own website." />
-    <meta property="og:image" content="https://taystan.design/assets/images/Own_Website.png" />
+    <meta property="og:image" content="https://taystan.design/assets/images/why-own-website.png" />
     <meta property="og:url" content="https://taystan.design/blog/why-own-website" />
     <meta property="og:type" content="article" />
 
