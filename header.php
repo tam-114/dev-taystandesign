@@ -1,3 +1,7 @@
+<?php
+$isBlog = isset($ogTitle); // Check if blog variables are defined
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,6 +21,15 @@
     <meta property="og:title" content="Taystan Design - Freelance Web Designer & Developer" />
     <meta property="og:description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepreneurs." />
     <meta property="og:image" content="https://taystan.design/assets/images/OG_Meta_img.png" />
+
+    <?php if ($isBlog): ?>
+        <!-- Open Graph Meta Tags for Blog -->
+        <meta property="og:title" content="<?php echo $ogTitle; ?>">
+        <meta property="og:description" content="<?php echo $ogDescription; ?>">
+        <meta property="og:image" content="<?php echo $ogImage; ?>">
+        <meta property="og:url" content="<?php echo $ogUrl; ?>">
+        <meta property="og:type" content="article">
+    <?php endif; ?>
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />

@@ -23,7 +23,7 @@ switch ($action) {
         break;
 
     case 'blog/why-own-website':
-        $include_header = false;
+        // $include_header = false;
         $Page_Title = "KSGF Project";
         $Page_Description = "Why should you own a website?";
         $Page_Keywords = "blog, why should I own a website";
