@@ -438,7 +438,7 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                 </div>
             </div>
             <div class="col-lg-7 col-12" data-aos="fade-up" data-aos-duration="1800">
-                <div class="accordion accordion-flush" id="accordionFlushExample">
+                <!-- <div class="accordion accordion-flush" id="accordionFlushExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingOne">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
@@ -491,7 +491,8 @@ $checkmark = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" vie
                         <div class="accordion-body">Yes, a minimum of 30% upfront, then installments after milestones and revisions are completed. Once you’re satisfied with the result, an invoice will be sent with a grace period of 15 days for payment to be due.</div>
                         </div>
                     </div>
-                </div>
+                </div> -->
+                <?php include('components/faq.php');?>
             </div>
         </div>
     </div>
