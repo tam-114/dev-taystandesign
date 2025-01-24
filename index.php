@@ -83,7 +83,7 @@ switch ($action) {
         $Page_Description = "Get in touch with me.";
         $Page_Keywords = "contact, email, phone";
         $include_file = 'pages/contact-me.php';
-        $pageid = "contact-me";
+        $pageid = "contactme";
         break;
 
     case 'thankyou':
