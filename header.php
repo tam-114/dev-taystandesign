@@ -16,11 +16,11 @@ $isBlog = isset($ogTitle); // Check if blog variables are defined
     <meta name="author" content="Taylor Stanley">
 
     <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
+    <!-- <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.facebook.com/taystandesign" />
     <meta property="og:title" content="Taystan Design - Freelance Web Designer & Developer" />
     <meta property="og:description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepreneurs." />
-    <meta property="og:image" content="https://taystan.design/assets/images/OG_Meta_img.png" />
+    <meta property="og:image" content="https://taystan.design/assets/images/OG_Meta_img.png" /> -->
 
     <?php if ($isBlog): ?>
         <!-- Open Graph Meta Tags for Blog -->
@@ -29,7 +29,13 @@ $isBlog = isset($ogTitle); // Check if blog variables are defined
         <meta property="og:image" content="<?php echo $ogImage; ?>">
         <meta property="og:url" content="<?php echo $ogUrl; ?>">
         <meta property="og:type" content="article">
-    <?php endif; ?>
+    <?php elseif (!$isBlog): ?>
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content="https://www.facebook.com/taystandesign" />
+      <meta property="og:title" content="Taystan Design - Freelance Web Designer & Developer" />
+      <meta property="og:description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepreneurs." />
+      <meta property="og:image" content="https://taystan.design/assets/images/OG_Meta_img.png" />
+    <?php endif;?>
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
