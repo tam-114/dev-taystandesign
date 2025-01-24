@@ -66,7 +66,7 @@ $color = "#1a1a1a";
         <div class="cs-content" data-aos="fade-up" data-aos-duration="1500">
             <h4 class="subtitle-text text-center">Answered Questions</h4>
             <h1 class="h1-text">Frequently Asked <span class="highlight">Questions</span></h1>
-            <div class="accordion accordion-flush" id="accordionFlushExample">
+            <!-- <div class="accordion accordion-flush" id="accordionFlushExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="flush-headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
@@ -119,7 +119,8 @@ $color = "#1a1a1a";
                         <div class="accordion-body">Yes, a minimum of 30% upfront, then installments after milestones and revisions are completed. Once you're satisfied with the result, an invoice will be sent with a grace period of 15 days for payment to be due.</div>
                     </div>
                 </div>
-            </div>
+            </div> -->
+            <?php include(BASE_PATH . 'components/faq.php');?>
         </div>
     </div>
 </section>
