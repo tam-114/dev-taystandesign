@@ -22,7 +22,7 @@ $isBlog = isset($ogTitle); // Check if blog variables are defined
     <meta property="og:description" content="Taystan Design offers freelance web design and development services for small businesses, non-profits, and entrepreneurs." />
     <meta property="og:image" content="https://taystan.design/assets/images/OG_Meta_img.png" /> -->
 
-    <?php if ($isBlog): ?>
+    <?php if ($ogType == "article"): ?>
         <!-- Open Graph Meta Tags for Blog -->
         <meta property="og:title" content="<?php echo $ogTitle; ?>">
         <meta property="og:description" content="<?php echo $ogDescription; ?>">
