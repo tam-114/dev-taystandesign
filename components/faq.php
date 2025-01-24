@@ -2,11 +2,11 @@
     <div class="accordion-item">
         <h2 class="accordion-header" id="flush-headingOne">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-            <p class="p-text fw-500 mb-0"> What is your experience in web design/development?</p>
+            <p class="p-text fw-500 mb-0"> Do you offer website maintenance/updates on other sites?</p>
         </button>
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">I have over 3+ years of professional experience as a full-time Web Designer/Developer. I'm a graduate from the University of Central Florida, with my Bachelor's in Digital Media: Web Design and minor in Information Technology.</div>
+            <div class="accordion-body">Yes! Even if I didn't build your website, if you are looking for help to increase your page speed, SSL configuration, migration to a new host domain setup, etc. I can help! I charge a minimum of $35 per request and will quote accordingly.</div>
         </div>
     </div>
     <div class="accordion-item">
@@ -16,7 +16,7 @@
         </button>
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">The length of time typically depends on the project’s needs, say from a website re-design to starting from scratch, but it can range to be between 2-6 weeks for delivery.</div>
+            <div class="accordion-body">The length of time typically depends on the project's needs, say from a website re-design to starting from scratch, but it can range to be between 2-6 weeks for delivery.</div>
         </div>
     </div>
     <div class="accordion-item">
@@ -38,7 +38,7 @@
         </button>
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">Yes! There is an upfront cost for yearly maintenance and hosting of the site, or priced per month depending on the package selected. Depending on the request, changes can be included in the maintenance fee or an additional $30/hr until completion.</div>
+            <div class="accordion-body">Yes! There is an upfront cost for yearly maintenance and hosting of the site, or priced per month depending on the package selected. Depending on the request, changes can be included in the maintenance fee or an additional $35/hr until completion.</div>
         </div>
     </div>
     <div class="accordion-item">
