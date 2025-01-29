@@ -492,15 +492,10 @@ $color = "#1a1a1a";
                     <option value="Custom Package">Custom Package</option>
                 </select>
             </label>
-            <!-- <label class="cs-label">
-                Select a Package:
-                <select class="cs-input" id="subject" name="subject" required>
-                    <option value="General Inquiry">General Inquiry</option>
-                    <option value="Starter Package">Starter Package</option>
-                    <option value="Pro Package">Pro Package</option>
-                    <option value="Custom Package">Custom Package</option>
-                </select>
-            </label> -->
+            <label class="cs-label">
+                Website Link (if applicable)
+                <input class="cs-input" type="text" id="website" name="website" placeholder="Website Link">
+            </label>
             <label class="cs-label">
                 Message
                 <textarea class="cs-input cs-textarea" required name="message" id="message" placeholder="Write message..."></textarea>
