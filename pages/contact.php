@@ -27,6 +27,14 @@ $color = "#1a1a1a";
                 <input class="cs-input" required type="tel" id="phone" name="phone" placeholder="Phone" autocomplete>
             </label>
             <label class="cs-label">
+                Preferred method of contact:
+                <select class="cs-input" id="contactmethod" name="contactmethod">
+                    <option value="Email">Email</option>
+                    <option value="Text Message">Text Message</option>
+                    <option value="Phone Call">Phone Call</option>
+                </select>
+            </label>
+            <label class="cs-label">
                 Reason for contact:
                 <select class="cs-input" id="subject" name="subject" required>
                     <option value="Request a Quote">Request a Quote</option>
