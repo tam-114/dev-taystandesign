@@ -79,7 +79,7 @@ foreach ($projects as $index => $project) {
                 <div class="col">
                     <span class="tag"><?php echo $project['tag'] ?></span>
                     <h2><?php echo $project['title']; ?></h2>
-                    <p>  End Date:    
+                    <p>  
                         <?php 
                             $date = new DateTime($project['date']); 
                             echo $date->format('M d, Y');
@@ -92,7 +92,7 @@ foreach ($projects as $index => $project) {
                 <div class="col">
                 <span class="tag"><?php echo $project['tag'] ?></span>
                     <h2><?php echo $project['title']; ?></h2>
-                    <p>      
+                    <p>
                         <?php 
                             $date = new DateTime($project['date']); 
                             echo $date->format('M d, Y');
