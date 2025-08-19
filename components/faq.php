@@ -6,7 +6,7 @@
         </button>
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">Yes! Even if I didn't build your website, if you are looking for help to increase your page speed, SSL configuration, migration to a new host, domain setup, etc. I can help! I charge a minimum of $35 per hour and as minimum deposit to get started, while the original audit to assess the site is free.</div>
+            <div class="accordion-body">Yes! Even if I didn't build your website, if you are looking for help to increase your page speed, SSL configuration, migration to a new host, domain setup, etc. I can help! I charge a minimum of $40 per hour and as minimum deposit to get started, while the original audit to assess the site is free.</div>
         </div>
     </div>
     <div class="accordion-item">
@@ -38,7 +38,7 @@
         </button>
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">Yes! There is an upfront cost for yearly maintenance and hosting of the site, or priced per month depending on the package selected. Depending on the request, changes can be included in the maintenance fee or an additional $30/hr until completion.</div>
+            <div class="accordion-body">Yes! There is an upfront cost for yearly maintenance and hosting of the site, or priced per month depending on the package selected. Depending on the request, changes can be included in the maintenance fee or an additional $40/hr until completion.</div>
         </div>
     </div>
     <div class="accordion-item">
